@@ -7089,3 +7089,174 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Mar2025 04:24:51.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Acquire Hardware]
 [22Mar2025 04:25:17.062] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 0 ms
 [22Mar2025 04:25:27.842] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$dfb80f32e78842c18a00aa4bb4852fc7 (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[22Mar2025 04:26:27.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 04:26:27.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 04:26:41.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Isn't It Iron Pick]
+[22Mar2025 04:27:31.394] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 04:27:31.395] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=971, z=1073200}"
+}
+[22Mar2025 04:27:31.395] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 04:27:31.395] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[81, 121, -105, 80, -44, -117, -115, 57, 10, 114, -36]"
+]
+[22Mar2025 04:27:32.522] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 04:27:32.522] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=980, z=1073200}"
+}
+[22Mar2025 04:27:32.522] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 04:27:32.523] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-74, 127, 104, -26, -121, 32, 46, -106, 16, -43, -59]"
+]
+[22Mar2025 04:27:32.686] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 04:27:32.687] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=925, z=1073200}"
+}
+[22Mar2025 04:27:32.687] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 04:27:32.687] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-71, 114, -60, 31, -42, -93, -82, 67, 31, 30, -122]"
+]
+[22Mar2025 04:27:32.832] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 04:27:32.833] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=875, z=1073200}"
+}
+[22Mar2025 04:27:32.833] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 04:27:32.833] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[16, -18, -4, 15, 67, -123, -125, 75, -22, -68, 81]"
+]
+[22Mar2025 04:27:33.651] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 04:27:33.652] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=977, z=1073200}"
+}
+[22Mar2025 04:27:33.652] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 04:27:33.652] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[23, -62, 124, 32, -100, -77, 72, -49, 22, -87, -53]"
+]
+[22Mar2025 04:27:33.815] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 04:27:33.815] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=842, z=1073200}"
+}
+[22Mar2025 04:27:33.815] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 04:27:33.816] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-64, -49, -15, -51, -102, -99, -20, 77, 17, 115, -58]"
+]
+[22Mar2025 04:27:34.042] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 04:27:34.042] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=991, z=1073200}"
+}
+[22Mar2025 04:27:34.042] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 04:27:34.042] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[17, -16, -56, 94, 47, 98, -63, -128, -96, 3, -111]"
+]
+[22Mar2025 04:27:34.105] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 04:27:34.106] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=815, z=1073200}"
+}
+[22Mar2025 04:27:34.106] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 04:27:34.106] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[90, 93, 60, -46, -88, -116, -88, 67, 44, 31, 92]"
+]
+[22Mar2025 04:27:35.077] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 04:27:35.077] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=889, z=1073200}"
+}
+[22Mar2025 04:27:35.078] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 04:27:35.078] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-81, -71, -21, -56, 86, 125, 56, -23, -118, -21, 106]"
+]
+[22Mar2025 04:27:35.464] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 04:27:35.465] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=931, z=1073200}"
+}
+[22Mar2025 04:27:35.465] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 04:27:35.465] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[56, 97, -29, -78, -103, 70, 49, 2, -119, -77, 120]"
+]
+[22Mar2025 04:27:47.142] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 04:27:47.143] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=875, z=1122352}"
+}
+[22Mar2025 04:27:47.143] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 04:27:47.143] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-2, -32, 121, -30, -48, 53, -88, -111, 124, -88, 67]"
+]
+[22Mar2025 04:27:49.877] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 04:27:49.878] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=1019, z=905264}"
+}
+[22Mar2025 04:27:49.878] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 04:27:49.878] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-65, 24, 13, 69, -117, -2, 84, 48, 45, 40, -9]"
+]
+[22Mar2025 04:27:53.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Isn't It Iron Pick]
+[22Mar2025 04:28:55.196] [Worker-Main-10/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit_small_2 is being run through DFU (hash 442197eb9b8936253bfa6786eb8731c4c7825592357132b3ea17461b5971b58c), this will cause launch time delays
+[22Mar2025 04:31:23.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Rigged from the Start]
+[22Mar2025 04:31:27.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 04:31:27.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 04:32:26.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Rigged from the Start]
+[22Mar2025 04:34:19.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Koboleton
+[22Mar2025 04:34:27.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to Santix15]
+[22Mar2025 04:34:35.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Sweet Dreams]
+[22Mar2025 04:34:45.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Sweet Dreams]
+[22Mar2025 04:35:24.456] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_2 is being run through DFU (hash 5356c0191c8d9d3ae03d544870c6204cca9701b0538d300cd23d377dda1cf3ca), this will cause launch time delays
+[22Mar2025 04:35:24.641] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_5 is being run through DFU (hash a11f3cb96dfe230d7e581cbd2d1066f188184c45486300d588d0f2e0d4645fe2), this will cause launch time delays
+[22Mar2025 04:35:24.754] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_1 is being run through DFU (hash ab8c67af0e24d52a59769a697563eced996332d4f0c80342afe506ab0ec266d8), this will cause launch time delays
+[22Mar2025 04:35:24.939] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_0 is being run through DFU (hash 115b537d7d99c49fb6d19ffb554faa27c41dc43ade2d87254034647a3ab747fe), this will cause launch time delays
+[22Mar2025 04:35:25.076] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_4 is being run through DFU (hash 78c773c124ff839eb7379a07f6bf264e74598bbd1de18f0d94135393510e5c80), this will cause launch time delays
+[22Mar2025 04:35:25.180] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_3 is being run through DFU (hash eb477c83a67458fa25c049fb25fe6e0088abaa3c98fdce3fb8a28b95553e5224), this will cause launch time delays
+[22Mar2025 04:35:25.318] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_0 is being run through DFU (hash 182b7b0c03c08234c59298b0a4be1dec4495b5258fcc032273170c1b7bcfa1b5), this will cause launch time delays
+[22Mar2025 04:35:25.412] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_2 is being run through DFU (hash c4fc7d3a63861c81be423b6bbf151d9b2ab1905e3a95759dafafac875a37d737), this will cause launch time delays
+[22Mar2025 04:35:25.417] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_0 is being run through DFU (hash 032ce8fbfe59cfcc7ad911973d34108e5f9e6d56e3d24c0b1bf139f0b2aee16c), this will cause launch time delays
+[22Mar2025 04:35:25.427] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_hoglin_rider_0 is being run through DFU (hash 8e22f1995ddeddae8fb5553c310b09d6f3560cf1fa6374648e3ca930682e74b5), this will cause launch time delays
+[22Mar2025 04:35:25.434] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_3_main is being run through DFU (hash ac776f2a583c6e27bcdc0165a41f89fa798b0f4411f874043e95c831da2b5725), this will cause launch time delays
+[22Mar2025 04:35:25.438] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_1 is being run through DFU (hash f4b3a59727ff42cf7ac87ad332129ca8963bc60f7f6ea9fd28525fb68b38ba04), this will cause launch time delays
+[22Mar2025 04:35:25.443] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_0 is being run through DFU (hash 8fa5a44dba83b2e521ff5c062b3fe31d1ca90bbb2963f240c8373ba8497c68f5), this will cause launch time delays
+[22Mar2025 04:35:25.454] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_1 is being run through DFU (hash d73979b8202a24d6eb7e494d9d89f53516c4f2b644b0131d4b5f82c30d3a1dd8), this will cause launch time delays

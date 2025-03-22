@@ -38,8 +38,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-03-22 04:02:58 +0000",
+      "minecraft:mangrove_swamp": "2025-03-22 04:22:22 +0000",
       "minecraft:river": "2025-03-22 04:01:14 +0000",
       "minecraft:desert": "2025-03-22 03:35:52 +0000",
+      "minecraft:windswept_savanna": "2025-03-22 04:28:44 +0000",
       "minecraft:savanna": "2025-03-20 00:29:17 +0000"
     },
     "done": false
@@ -680,6 +682,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-22 04:26:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-03-22 04:11:10 +0000"
@@ -929,6 +937,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-22 03:47:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-03-22 04:31:23 +0000"
     },
     "done": true
   },
@@ -1408,6 +1422,7 @@
       "beef": "2025-03-22 03:37:40 +0000",
       "pumpkin_pie": "2025-03-22 04:12:55 +0000",
       "mutton": "2025-03-22 04:01:01 +0000",
+      "bread": "2025-03-22 04:26:20 +0000",
       "rotten_flesh": "2025-03-22 03:32:40 +0000",
       "mushroom_stew": "2025-03-22 04:09:43 +0000",
       "carrot": "2025-03-22 04:09:22 +0000"
