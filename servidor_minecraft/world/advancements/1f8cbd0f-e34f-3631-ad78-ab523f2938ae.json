@@ -41,5 +41,413 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-03-22 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-03-22 03:47:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-03-22 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-03-22 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-03-22 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-22 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-03-22 03:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-22 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-03-22 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-03-22 03:47:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-03-22 03:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_desk": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-22 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-03-22 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-22 03:47:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-03-22 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_table": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-03-22 03:51:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_coffee_table": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_blinds": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-22 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-03-22 03:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-03-22 03:47:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-03-22 03:47:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_desk": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-03-22 03:47:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-03-22 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_crate": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-03-22 03:47:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_crate": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-22 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-03-22 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-03-22 03:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-03-22 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-03-22 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-03-22 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-03-22 03:46:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

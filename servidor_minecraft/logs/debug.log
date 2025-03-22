@@ -6848,3 +6848,168 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Mar2025 03:45:51.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=12, y=69, z=7}
 [22Mar2025 03:45:51.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=70, z=9}
 [22Mar2025 03:45:52.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=16, y=69, z=8}
+[22Mar2025 03:46:27.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 03:46:27.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 03:46:33.823] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 03:46:33.830] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=828, z=1073200}"
+}
+[22Mar2025 03:46:33.830] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 03:46:33.839] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[11, 43, 44, -18, -102, -32, 87, 28, -67, -20, 8]"
+]
+[22Mar2025 03:46:34.715] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 03:46:34.716] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=832, z=1073200}"
+}
+[22Mar2025 03:46:34.716] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 03:46:34.716] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-17, 28, 66, -106, -49, 27, -57, 107, 67, 28, 90]"
+]
+[22Mar2025 03:46:34.940] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 03:46:34.941] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=846, z=1073200}"
+}
+[22Mar2025 03:46:34.941] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 03:46:34.941] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[34, 7, -125, 63, 53, -28, -8, -37, 12, 82, -48]"
+]
+[22Mar2025 03:46:35.449] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 03:46:35.449] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=979, z=1073200}"
+}
+[22Mar2025 03:46:35.450] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 03:46:35.450] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[6, 13, 69, -79, 124, -115, -126, 3, -12, -26, 109]"
+]
+[22Mar2025 03:46:35.628] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 03:46:35.629] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=827, z=1073200}"
+}
+[22Mar2025 03:46:35.629] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 03:46:35.629] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-20, -84, 9, -20, 81, 73, 2, -92, -43, -75, -104]"
+]
+[22Mar2025 03:46:35.681] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 03:46:35.681] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=934, z=1073200}"
+}
+[22Mar2025 03:46:35.681] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 03:46:35.682] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[106, -73, 104, -46, 95, -36, 35, -51, -114, 19, 86]"
+]
+[22Mar2025 03:46:35.991] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 03:46:35.991] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=908, z=1073200}"
+}
+[22Mar2025 03:46:35.992] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 03:46:35.992] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-36, 33, -108, 57, 85, 66, 67, 6, -112, -56, -58]"
+]
+[22Mar2025 03:46:36.529] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 03:46:36.530] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=979, z=1073200}"
+}
+[22Mar2025 03:46:36.530] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 03:46:36.530] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-70, -111, 125, -51, 20, 68, 6, 13, 122, -81, 54]"
+]
+[22Mar2025 03:46:37.056] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 03:46:37.057] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=856, z=1073200}"
+}
+[22Mar2025 03:46:37.057] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 03:46:37.057] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[91, -100, -115, -93, -47, 114, 85, -18, -24, -89, -40]"
+]
+[22Mar2025 03:46:37.196] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 03:46:37.197] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=944, z=1073200}"
+}
+[22Mar2025 03:46:37.197] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 03:46:37.197] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[110, 12, 89, 109, 64, 6, 116, -33, 79, 82, -78]"
+]
+[22Mar2025 03:46:52.197] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 03:46:52.197] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=932, z=1122352}"
+}
+[22Mar2025 03:46:52.198] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 03:46:52.198] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-62, 72, 17, -30, -97, 12, -92, -16, -113, 35, 70]"
+]
+[22Mar2025 03:46:52.529] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 03:46:52.530] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=866, z=905264}"
+}
+[22Mar2025 03:46:52.530] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 03:46:52.530] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-102, -78, -79, 100, -35, -97, 85, -108, 58, 31, 25]"
+]
+[22Mar2025 03:47:04.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Stone Age]
+[22Mar2025 03:47:29.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Alex's Mobs]
+[22Mar2025 03:48:19.811] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of lobo3224: {disabled=false, disconnected=true, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=f1815ac0-46be-433f-8536-0bf83da0b268}
+[22Mar2025 03:48:22.915] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Santix15: {disabled=false, disconnected=true, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=f540db4a-8ee0-40d5-b3b8-17e09e4337fd}
+[22Mar2025 03:48:49.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Stone Age]
+[22Mar2025 03:50:17.157] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of lobo3224: {disabled=false, disconnected=true, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=null}
+[22Mar2025 03:50:18.210] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of lobo3224: {disabled=false, disconnected=true, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=f540db4a-8ee0-40d5-b3b8-17e09e4337fd}
+[22Mar2025 03:50:24.843] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Santix15: {disabled=true, disconnected=true, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=f540db4a-8ee0-40d5-b3b8-17e09e4337fd}
+[22Mar2025 03:50:25.215] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Santix15: {disabled=false, disconnected=true, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=f540db4a-8ee0-40d5-b3b8-17e09e4337fd}
+[22Mar2025 03:51:27.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 03:51:27.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 03:52:21.942] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of lobo3224: {disabled=true, disconnected=true, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=f540db4a-8ee0-40d5-b3b8-17e09e4337fd}
+[22Mar2025 03:52:22.846] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of lobo3224: {disabled=false, disconnected=true, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=f540db4a-8ee0-40d5-b3b8-17e09e4337fd}
+[22Mar2025 03:53:04.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> jaja
+[22Mar2025 03:53:17.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> pobre Gonci :)
+[22Mar2025 03:53:17.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> me revivis
+[22Mar2025 03:53:32.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> miau
+[22Mar2025 03:53:54.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> queres llamada
+[22Mar2025 03:54:16.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Monster Hunter]
