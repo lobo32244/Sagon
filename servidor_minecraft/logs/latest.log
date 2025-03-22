@@ -2036,3 +2036,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Mar2025 03:34:43.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
 [22Mar2025 03:35:05.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
 [22Mar2025 03:35:55.543] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[22Mar2025 03:39:53.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.120.244.203:36665] logged in with entity id 2149 at (3.5, 70.0, 6.5)
+[22Mar2025 03:39:53.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[22Mar2025 03:39:53.294] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[22Mar2025 03:39:58.408] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[22Mar2025 03:39:58.409] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[22Mar2025 03:40:20.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[22Mar2025 03:40:20.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[22Mar2025 03:40:20.246] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[22Mar2025 03:43:23.852] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.120.244.203:54157] logged in with entity id 2616 at (3.5, 70.0, 6.5)
+[22Mar2025 03:43:23.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[22Mar2025 03:43:23.881] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[22Mar2025 03:43:24.760] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[22Mar2025 03:43:24.761] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[22Mar2025 03:44:47.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=70, z=7}
+[22Mar2025 03:44:48.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=70, z=7}
+[22Mar2025 03:44:51.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=69, z=7}
+[22Mar2025 03:44:51.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=69, z=8}
+[22Mar2025 03:44:55.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=73, z=7}
+[22Mar2025 03:44:59.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=73, z=7}
+[22Mar2025 03:45:00.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=72, z=7}
+[22Mar2025 03:45:28.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=69, z=7}
+[22Mar2025 03:45:30.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[22Mar2025 03:45:30.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[22Mar2025 03:45:30.845] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[22Mar2025 03:45:38.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.120.244.203:46013] logged in with entity id 2863 at (8.659957822913738, 70.0, 6.981969862514319)
+[22Mar2025 03:45:38.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[22Mar2025 03:45:38.984] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[22Mar2025 03:45:39.718] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[22Mar2025 03:45:39.719] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[22Mar2025 03:45:47.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=69, z=7}
+[22Mar2025 03:45:48.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=69, z=7}
+[22Mar2025 03:45:48.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=69, z=6}
+[22Mar2025 03:45:49.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=12, y=69, z=6}
+[22Mar2025 03:45:49.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=12, y=69, z=6}
+[22Mar2025 03:45:49.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=12, y=69, z=8}
+[22Mar2025 03:45:51.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=12, y=69, z=7}
+[22Mar2025 03:45:51.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=70, z=9}
+[22Mar2025 03:45:52.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=16, y=69, z=8}
