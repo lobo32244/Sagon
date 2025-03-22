@@ -2258,3 +2258,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Mar2025 04:11:10.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Acquire Hardware]
 [22Mar2025 04:14:44.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to Santix15]
 [22Mar2025 04:14:48.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 fell from a high place
+[22Mar2025 04:20:14.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Skeleton
+[22Mar2025 04:24:51.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Acquire Hardware]
+[22Mar2025 04:25:17.062] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 0 ms

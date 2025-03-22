@@ -7078,3 +7078,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Mar2025 04:11:27.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Mar2025 04:14:44.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to Santix15]
 [22Mar2025 04:14:48.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 fell from a high place
+[22Mar2025 04:16:27.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 04:16:27.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 04:20:14.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Skeleton
+[22Mar2025 04:20:25.765] [Worker-Main-29/DEBUG] [mixin/]: Mixing ai.poi.tasks.HideInHomeTaskMixin from lithium.mixins.json into net.minecraft.world.entity.ai.behavior.LocateHidingPlace
+[22Mar2025 04:20:25.765] [Worker-Main-29/DEBUG] [mixin/]: lithium.mixins.json:ai.poi.tasks.HideInHomeTaskMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[22Mar2025 04:21:27.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 04:21:27.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 04:22:58.326] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[22Mar2025 04:24:51.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Acquire Hardware]
+[22Mar2025 04:25:17.062] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 0 ms
+[22Mar2025 04:25:27.842] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$dfb80f32e78842c18a00aa4bb4852fc7 (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
