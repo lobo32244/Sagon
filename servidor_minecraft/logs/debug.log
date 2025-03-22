@@ -7013,3 +7013,58 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Mar2025 03:53:32.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> miau
 [22Mar2025 03:53:54.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> queres llamada
 [22Mar2025 03:54:16.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Monster Hunter]
+[22Mar2025 03:56:10.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Spider
+[22Mar2025 03:56:26.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was slain by Spider
+[22Mar2025 03:56:27.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 03:56:27.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 03:56:43.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[22Mar2025 03:57:00.212] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/tower is being run through DFU (hash 057353f039449d802a124e196b5753dd1bf4e80064f499a3f024c9cdca56fe08), this will cause launch time delays
+[22Mar2025 03:57:00.785] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[22Mar2025 03:57:00.848] [Worker-Main-29/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit is being run through DFU (hash f1c61aee919af5b4328b00946297488c1ae6298e8368899493ef1e2f912cd68d), this will cause launch time delays
+[22Mar2025 03:57:00.877] [Worker-Main-29/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthi_throne is being run through DFU (hash fe56ff13945da4037a3304881f981a2d446bd3d8011f0673dd029d88bd38d2d7), this will cause launch time delays
+[22Mar2025 03:57:00.985] [Worker-Main-29/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_2 is being run through DFU (hash 760dec3596d4f025d1c5cf7f2641193f29d165e4ae8fcc344d06435c6a32ac58), this will cause launch time delays
+[22Mar2025 03:57:01.004] [Worker-Main-29/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_extend is being run through DFU (hash 02ee3988b5d2680529a144e8cf8abc69d71a674c8feb16925c671e0fedbca653), this will cause launch time delays
+[22Mar2025 03:57:01.024] [Worker-Main-29/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_platform_1 is being run through DFU (hash 761c6ed2072fe7e2915febc169f20d4b644f8695f5e9dd9719bcab1cbe1e4127), this will cause launch time delays
+[22Mar2025 03:57:01.047] [Worker-Main-29/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_2 is being run through DFU (hash 1379096a7a49bd6673e2d616c0bdfceedaa1ac4f8e60238437a7fb0d90ea3111), this will cause launch time delays
+[22Mar2025 03:57:01.070] [Worker-Main-29/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_3 is being run through DFU (hash dd6e993a8f3fde05c1064302501b0f9ffdeda06349ef4a8f150ff16d4d8bcaf8), this will cause launch time delays
+[22Mar2025 03:57:01.084] [Worker-Main-29/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_tree_1 is being run through DFU (hash adaed3887d364fa75eefd197e87cd281605ab4caec4441c9abadf64eb3836771), this will cause launch time delays
+[22Mar2025 03:57:01.104] [Worker-Main-29/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_firepit_small_1 is being run through DFU (hash c0a2ab40feea0429b2fdd2197c7dc7726ed142ffae8b437e57614aeb5118cd53), this will cause launch time delays
+[22Mar2025 03:57:01.192] [Worker-Main-29/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_1 is being run through DFU (hash 592b09a6abd24a3d4c7e68dbe797dff2bf244aff6ec0e07d398fac23d00f5c49), this will cause launch time delays
+[22Mar2025 03:57:01.217] [Worker-Main-29/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_2 is being run through DFU (hash f994a4d00e2db8d208572e9f72e67c3379bbabfd99dbd8865046ffe941573796), this will cause launch time delays
+[22Mar2025 03:57:01.229] [Worker-Main-29/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_3 is being run through DFU (hash 4322167294d5c4acf589da61f48b80c66fc3b43657a11d1f1ca8a1004f7b0a19), this will cause launch time delays
+[22Mar2025 03:57:01.296] [Worker-Main-29/DEBUG] [ModernFix/]: Structure mowziesmobs:umvuthana/umvuthana_spike_4 is being run through DFU (hash 83cbc6cdf72ab1b09f2ca868d918388ed6e0d35f8da2161960420f5d37c03bbd), this will cause launch time delays
+[22Mar2025 03:57:06.056] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[22Mar2025 03:57:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[22Mar2025 03:57:20.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was shot by Skeleton
+[22Mar2025 03:58:41.603] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[22Mar2025 03:58:41.614] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[22Mar2025 03:58:41.635] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[22Mar2025 03:58:41.641] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_0
+[22Mar2025 03:59:22.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was slain by Spider
+[22Mar2025 04:01:14.528] [Worker-Main-10/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[22Mar2025 04:01:14.565] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[22Mar2025 04:01:14.636] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[22Mar2025 04:01:14.653] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[22Mar2025 04:01:14.653] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[22Mar2025 04:01:17.989] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[22Mar2025 04:01:17.989] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[22Mar2025 04:01:18.672] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[22Mar2025 04:01:18.684] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[22Mar2025 04:01:18.684] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[22Mar2025 04:01:27.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 04:01:27.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 04:01:30.281] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_savanna took 3 ms
+[22Mar2025 04:01:37.496] [Worker-Main-29/DEBUG] [ModernFix/]: Structure irons_spellbooks:priest_house is being run through DFU (hash d76810475d0e95759e3aba14294cb4faa0f372ebdd371e669f8740fcad373d48), this will cause launch time delays
+[22Mar2025 04:01:38.440] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 997 ms
+[22Mar2025 04:02:16.468] [Worker-Main-29/DEBUG] [ModernFix/]: Structure irons_spellbooks:mountain_tower is being run through DFU (hash 3595c332eccd57cece5af55cd85bacd63908f41c1a3749c4d8002148a22dcb07), this will cause launch time delays
+[22Mar2025 04:02:37.879] [Worker-Main-29/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_0 is being run through DFU (hash 509ef07905d3e6f1a301170bbd81f8df42bd9e5436df2a211855d1fa711e53d7), this will cause launch time delays
+[22Mar2025 04:02:37.947] [Worker-Main-29/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_0_main is being run through DFU (hash fdaaae3527bd087ae85b0ae4174af4bc8e5fb752d703b2cfbedea3cec78e2eaa), this will cause launch time delays
+[22Mar2025 04:02:42.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Mine? Mine? Mine?]
+[22Mar2025 04:02:59.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [It's an Emu!!!]
+[22Mar2025 04:03:08.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Crops of the Wild]
+[22Mar2025 04:03:14.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=278, y=63, z=-330} BlockPos{x=278, y=62, z=-330}
+[22Mar2025 04:03:14.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=278, y=63, z=-330} BlockPos{x=278, y=62, z=-330}
+[22Mar2025 04:03:14.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=278, y=63, z=-330} BlockPos{x=278, y=62, z=-330}
+[22Mar2025 04:03:14.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=277, y=63, z=-331} BlockPos{x=276, y=61, z=-331}
+[22Mar2025 04:03:15.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Crops of the Wild]
+[22Mar2025 04:04:29.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [It's an Emu!!!]

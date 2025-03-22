@@ -2227,3 +2227,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22Mar2025 03:53:32.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> miau
 [22Mar2025 03:53:54.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> queres llamada
 [22Mar2025 03:54:16.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Monster Hunter]
+[22Mar2025 03:56:10.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Spider
+[22Mar2025 03:56:26.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was slain by Spider
+[22Mar2025 03:56:43.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[22Mar2025 03:57:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[22Mar2025 03:57:20.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was shot by Skeleton
+[22Mar2025 03:59:22.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was slain by Spider
+[22Mar2025 04:01:14.528] [Worker-Main-10/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[22Mar2025 04:01:14.565] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[22Mar2025 04:01:14.636] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[22Mar2025 04:01:14.653] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[22Mar2025 04:01:14.653] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[22Mar2025 04:01:17.989] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[22Mar2025 04:01:17.989] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[22Mar2025 04:01:18.672] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[22Mar2025 04:01:18.684] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[22Mar2025 04:01:18.684] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[22Mar2025 04:01:30.281] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_savanna took 3 ms
+[22Mar2025 04:01:38.440] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 997 ms
+[22Mar2025 04:02:42.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Mine? Mine? Mine?]
+[22Mar2025 04:02:59.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [It's an Emu!!!]
+[22Mar2025 04:03:08.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Crops of the Wild]
+[22Mar2025 04:03:14.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=278, y=63, z=-330} BlockPos{x=278, y=62, z=-330}
+[22Mar2025 04:03:14.477] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=278, y=63, z=-330} BlockPos{x=278, y=62, z=-330}
+[22Mar2025 04:03:14.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=278, y=63, z=-330} BlockPos{x=278, y=62, z=-330}
+[22Mar2025 04:03:14.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=277, y=63, z=-331} BlockPos{x=276, y=61, z=-331}
+[22Mar2025 04:03:15.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Crops of the Wild]
+[22Mar2025 04:04:29.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [It's an Emu!!!]
