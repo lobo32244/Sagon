@@ -2246,3 +2246,199 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Mar2025 05:01:08.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> ¨/
 [23Mar2025 05:09:14.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: veltropo has made the advancement [Acquire Hardware]
 [23Mar2025 05:15:12.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Getting an Upgrade]
+[23Mar2025 05:30:16.331] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 05:30:16.332] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=970, z=1073200}"
+}
+[23Mar2025 05:30:16.332] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[23Mar2025 05:30:16.333] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-17, -4, -19, 24, -61, 7, 116, 115, -115, 101, 42]"
+]
+[23Mar2025 05:30:17.457] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 05:30:17.458] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=790, z=1073200}"
+}
+[23Mar2025 05:30:17.458] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[23Mar2025 05:30:17.458] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-36, -29, -103, 27, 20, -97, -10, 57, -119, 44, 16]"
+]
+[23Mar2025 05:30:18.432] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 05:30:18.432] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=879, z=1073200}"
+}
+[23Mar2025 05:30:18.432] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[23Mar2025 05:30:18.433] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-76, 89, -108, -118, -55, 113, -16, 32, 25, 59, 7]"
+]
+[23Mar2025 05:30:18.593] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 05:30:18.594] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=828, z=1073200}"
+}
+[23Mar2025 05:30:18.594] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[23Mar2025 05:30:18.594] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-25, 57, -64, -100, -118, 123, 60, -53, -119, -123, 14]"
+]
+[23Mar2025 05:30:19.029] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 05:30:19.030] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=818, z=1073200}"
+}
+[23Mar2025 05:30:19.031] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[23Mar2025 05:30:19.031] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[46, -120, -100, -39, -3, -54, -60, 83, 77, -98, -32]"
+]
+[23Mar2025 05:30:19.563] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 05:30:19.563] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=832, z=1073200}"
+}
+[23Mar2025 05:30:19.564] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[23Mar2025 05:30:19.564] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[21, -59, 73, 120, 101, -100, -9, 72, 21, 91, -90]"
+]
+[23Mar2025 05:30:20.306] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 05:30:20.307] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=857, z=1073200}"
+}
+[23Mar2025 05:30:20.307] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[23Mar2025 05:30:20.307] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-87, -127, -66, 90, -13, 76, -62, 36, -115, 112, -49]"
+]
+[23Mar2025 05:30:21.927] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 05:30:21.927] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=809, z=1073200}"
+}
+[23Mar2025 05:30:21.927] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[23Mar2025 05:30:21.928] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[121, 16, 90, 106, -102, -3, 37, 36, 127, 60, -80]"
+]
+[23Mar2025 05:30:25.799] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 05:30:25.800] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=884, z=1073200}"
+}
+[23Mar2025 05:30:25.800] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[23Mar2025 05:30:25.800] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[18, -96, -43, -49, 17, -120, 113, 33, 84, 29, 31]"
+]
+[23Mar2025 05:30:29.983] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 05:30:29.984] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=790, z=1122352}"
+}
+[23Mar2025 05:30:29.984] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[23Mar2025 05:30:29.984] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[9, -7, 79, 121, -104, 125, -31, 121, -3, -86, 59]"
+]
+[23Mar2025 05:30:30.294] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 05:30:30.295] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=901, z=905264}"
+}
+[23Mar2025 05:30:30.295] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[23Mar2025 05:30:30.295] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-70, -28, -53, -64, 99, 47, 37, -126, 15, 67, -94]"
+]
+[23Mar2025 05:30:32.269] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 05:30:32.270] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=809, z=856112}"
+}
+[23Mar2025 05:30:32.270] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[23Mar2025 05:30:32.270] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-30, -60, 30, 23, 103, 77, -45, 68, 71, -26, 118]"
+]
+[23Mar2025 05:31:40.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[23Mar2025 05:31:40.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[23Mar2025 05:31:40.232] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[23Mar2025 05:31:45.396] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.101.208.222:60061] logged in with entity id 13537 at (-1897.699999988079, 66.30421341792974, -176.2068015539851)
+[23Mar2025 05:31:45.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[23Mar2025 05:31:45.443] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[23Mar2025 05:31:46.151] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[23Mar2025 05:31:46.151] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[23Mar2025 05:31:50.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[23Mar2025 05:31:51.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[23Mar2025 05:31:51.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[23Mar2025 05:32:12.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzzz
+[23Mar2025 05:32:13.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzz
+[23Mar2025 05:32:13.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[23Mar2025 05:32:14.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzzz
+[23Mar2025 05:32:14.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[23Mar2025 05:32:14.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[23Mar2025 05:32:14.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[23Mar2025 05:32:15.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zz
+[23Mar2025 05:32:15.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[23Mar2025 05:32:15.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zz
+[23Mar2025 05:32:15.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[23Mar2025 05:32:16.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zz
+[23Mar2025 05:32:16.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[23Mar2025 05:32:17.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> Z
+[23Mar2025 05:32:17.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> Z
+[23Mar2025 05:32:17.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> Z
+[23Mar2025 05:32:17.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> Z
+[23Mar2025 05:32:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzzzzzz
+[23Mar2025 05:32:17.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> Z
+[23Mar2025 05:32:18.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> Z
+[23Mar2025 05:32:18.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> Z
+[23Mar2025 05:32:18.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> Z
+[23Mar2025 05:32:18.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> Z
+[23Mar2025 05:32:18.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> Z
+[23Mar2025 05:32:18.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> Z
+[23Mar2025 05:32:19.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> Z
+[23Mar2025 05:32:19.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: veltropo lost connection: Kicked for spamming
+[23Mar2025 05:32:19.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: veltropo left the game
+[23Mar2025 05:32:19.132] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client veltropo
+[23Mar2025 05:32:19.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzzzz
+[23Mar2025 05:32:20.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzzzzzz
+[23Mar2025 05:32:22.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzzzz
+[23Mar2025 05:32:24.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzzzzz
+[23Mar2025 05:32:27.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: veltropo[/127.81.108.129:57843] logged in with entity id 13651 at (-1872.5, 64.0, -185.5)
+[23Mar2025 05:32:27.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: veltropo joined the game
+[23Mar2025 05:32:27.371] [Server thread/INFO] [Jade/]: Syncing config to veltropo (54980772-a2a0-3041-8150-c2ab24dd7881)
+[23Mar2025 05:32:28.153] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of veltropo (18)
+[23Mar2025 05:32:28.153] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to veltropo
+[23Mar2025 05:32:31.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 54980772-a2a0-3041-8150-c2ab24dd7881
+[23Mar2025 05:32:32.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54980772-a2a0-3041-8150-c2ab24dd7881
+[23Mar2025 05:32:32.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player veltropo (54980772-a2a0-3041-8150-c2ab24dd7881) successfully connected to voice chat
