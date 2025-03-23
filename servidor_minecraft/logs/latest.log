@@ -2232,3 +2232,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Mar2025 04:55:49.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported veltropo to lobo3224]
 [23Mar2025 04:56:06.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
 [23Mar2025 04:56:10.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to -1828.500000, -44.500000, -232.500000]
+[23Mar2025 04:58:09.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.120.244.203:58475] logged in with entity id 7398 at (-1880.207371304114, 64.0, -187.03119112958046)
+[23Mar2025 04:58:09.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[23Mar2025 04:58:09.224] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[23Mar2025 04:58:12.060] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[23Mar2025 04:58:12.060] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[23Mar2025 04:58:21.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[23Mar2025 04:58:22.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[23Mar2025 04:58:22.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[23Mar2025 04:59:18.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Not Today, Thank You]
+[23Mar2025 04:59:56.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> uyuyuyu
+[23Mar2025 05:00:07.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> eta vaina eta seria
+[23Mar2025 05:01:08.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> ¨/
