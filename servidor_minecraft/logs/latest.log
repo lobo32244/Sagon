@@ -2266,3 +2266,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Mar2025 22:22:39.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
 [23Mar2025 22:22:39.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
 [23Mar2025 22:31:22.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [What a Deal!]
+[23Mar2025 22:50:06.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Hunt and Gather]
