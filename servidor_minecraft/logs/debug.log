@@ -6655,3 +6655,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Mar2025 04:43:19.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: veltropo has made the advancement [Isn't It Iron Pick]
 [23Mar2025 04:45:31.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
 [23Mar2025 04:45:44.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: veltropo has made the advancement [Suit Up]
+[23Mar2025 04:46:53.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 04:46:53.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 04:47:27.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: veltropo was shot by Skeleton
+[23Mar2025 04:47:47.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported veltropo to lobo3224]
+[23Mar2025 04:48:00.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[23Mar2025 04:48:07.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to -1828.500000, -6.500000, -242.500000]
+[23Mar2025 04:49:47.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was doomed to fall by Zombie Villager
+[23Mar2025 04:49:52.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to -1814.500000, -47.500000, -229.500000]
+[23Mar2025 04:50:25.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: veltropo has made the advancement [Not Today, Thank You]
+[23Mar2025 04:50:32.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: veltropo has made the advancement [Monster Hunter]
+[23Mar2025 04:50:52.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by veltropo
+[23Mar2025 04:50:58.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to -1804.500000, -41.500000, -238.500000]
+[23Mar2025 04:51:53.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 04:51:53.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 04:51:59.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Diamonds!]
+[23Mar2025 04:53:52.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: veltropo has made the advancement [Diamonds!]
+[23Mar2025 04:54:31.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: veltropo tried to swim in lava
+[23Mar2025 04:55:08.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> tepeame gonzi
+[23Mar2025 04:55:49.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported veltropo to lobo3224]
+[23Mar2025 04:56:06.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[23Mar2025 04:56:10.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to -1828.500000, -44.500000, -232.500000]
