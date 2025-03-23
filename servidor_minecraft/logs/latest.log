@@ -2446,3 +2446,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Mar2025 05:46:35.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> z
 [23Mar2025 05:46:35.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> z
 [23Mar2025 05:46:38.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> z
+[23Mar2025 05:57:25.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: veltropo lost connection: Disconnected
+[23Mar2025 05:57:25.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: veltropo left the game
+[23Mar2025 05:57:25.283] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client veltropo

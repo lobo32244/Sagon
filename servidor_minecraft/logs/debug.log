@@ -7494,3 +7494,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Mar2025 05:51:53.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Mar2025 05:56:53.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Mar2025 05:56:53.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 05:57:25.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: veltropo lost connection: Disconnected
+[23Mar2025 05:57:25.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: veltropo left the game
+[23Mar2025 05:57:25.282] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of veltropo
+[23Mar2025 05:57:25.283] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client veltropo
+[23Mar2025 05:57:25.286] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 54980772-a2a0-3041-8150-c2ab24dd7881 does not have a secret
+[23Mar2025 05:57:25.311] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 54980772-a2a0-3041-8150-c2ab24dd7881 does not have a secret
+[23Mar2025 05:57:25.366] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 54980772-a2a0-3041-8150-c2ab24dd7881 does not have a secret
+[23Mar2025 06:01:52.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 06:01:53.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 06:06:52.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 06:06:53.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
