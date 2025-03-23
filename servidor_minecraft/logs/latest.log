@@ -2253,3 +2253,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Mar2025 22:06:10.927] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
 [23Mar2025 22:10:00.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [What a Deal!]
 [23Mar2025 22:19:46.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was caught by Necromancer's fangs
+[23Mar2025 22:20:46.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Zombie
+[23Mar2025 22:22:25.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[23Mar2025 22:22:25.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[23Mar2025 22:22:25.830] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[23Mar2025 22:22:35.088] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.120.244.203:52143] logged in with entity id 6188 at (-1879.6302074823318, 65.0, -155.69999998807907)
+[23Mar2025 22:22:35.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[23Mar2025 22:22:35.124] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[23Mar2025 22:22:35.755] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[23Mar2025 22:22:35.755] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[23Mar2025 22:22:38.436] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[23Mar2025 22:22:39.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[23Mar2025 22:22:39.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
