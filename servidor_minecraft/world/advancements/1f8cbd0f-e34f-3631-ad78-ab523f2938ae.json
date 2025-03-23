@@ -500,6 +500,7 @@
       "cooked_porkchop": "2025-03-22 04:12:24 +0000",
       "chicken": "2025-03-22 04:04:13 +0000",
       "cooked_mutton": "2025-03-22 04:09:00 +0000",
+      "cooked_beef": "2025-03-23 22:06:38 +0000",
       "pumpkin_pie": "2025-03-22 04:31:27 +0000",
       "mutton": "2025-03-22 04:05:51 +0000",
       "bread": "2025-03-22 04:19:16 +0000",
@@ -2984,6 +2985,12 @@
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-03-23 22:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-03-23 22:13:38 +0000"
     },
     "done": true
   },
