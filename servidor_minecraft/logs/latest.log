@@ -2605,3 +2605,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "<partial numeric data>",
   "[-123, -61, -102, 5, 65, 66, 86, -31, 14, -42, -6]"
 ]
+[23Mar2025 06:26:15.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1889, y=64, z=-155} BlockPos{x=-1890, y=63, z=-155}
