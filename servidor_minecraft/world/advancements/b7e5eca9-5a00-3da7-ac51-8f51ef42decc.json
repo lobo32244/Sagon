@@ -2908,5 +2908,11 @@
     },
     "done": true
   },
+  "hangglider:recipes/tools/hang_glider": {
+    "criteria": {
+      "has_glider_framework": "2025-03-23 05:41:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

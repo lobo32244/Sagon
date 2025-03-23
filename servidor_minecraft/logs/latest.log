@@ -2442,3 +2442,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23Mar2025 05:32:31.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 54980772-a2a0-3041-8150-c2ab24dd7881
 [23Mar2025 05:32:32.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54980772-a2a0-3041-8150-c2ab24dd7881
 [23Mar2025 05:32:32.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player veltropo (54980772-a2a0-3041-8150-c2ab24dd7881) successfully connected to voice chat
+[23Mar2025 05:46:35.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> z
+[23Mar2025 05:46:35.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> z
+[23Mar2025 05:46:35.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> z
+[23Mar2025 05:46:38.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <veltropo> z
