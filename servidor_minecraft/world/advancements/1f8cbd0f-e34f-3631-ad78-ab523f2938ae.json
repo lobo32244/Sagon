@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2025-03-23 22:55:31 +0000",
       "minecraft:beach": "2025-03-22 04:02:50 +0000",
       "minecraft:mangrove_swamp": "2025-03-22 04:20:42 +0000",
       "minecraft:river": "2025-03-22 04:01:31 +0000",
@@ -2988,6 +2989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-03-23 22:13:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-03-23 22:31:22 +0000"
@@ -3000,9 +3007,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "has_lily_of_the_valley": "2025-03-23 22:13:38 +0000"
+      "has_gunpowder": "2025-03-23 22:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-23 22:49:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-03-23 22:50:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-03-23 22:50:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-03-23 22:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-23 22:50:13 +0000"
     },
     "done": true
   },
