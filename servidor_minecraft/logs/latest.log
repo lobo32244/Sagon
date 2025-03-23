@@ -2211,3 +2211,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "<partial numeric data>",
   "[115, -103, 45, -19, -99, 60, -77, 80, 48, 42, 113]"
 ]
+[23Mar2025 04:37:06.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Not Today, Thank You]
+[23Mar2025 04:43:19.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: veltropo has made the advancement [Isn't It Iron Pick]
+[23Mar2025 04:45:31.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
+[23Mar2025 04:45:44.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: veltropo has made the advancement [Suit Up]

@@ -41,6 +41,7 @@
       "minecraft:beach": "2025-03-22 04:02:58 +0000",
       "minecraft:mangrove_swamp": "2025-03-22 04:22:22 +0000",
       "minecraft:river": "2025-03-22 04:01:14 +0000",
+      "minecraft:forest": "2025-03-23 04:40:05 +0000",
       "minecraft:desert": "2025-03-22 03:35:52 +0000",
       "minecraft:windswept_savanna": "2025-03-22 04:28:44 +0000",
       "minecraft:savanna": "2025-03-20 00:29:17 +0000",
@@ -2295,6 +2296,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-03-23 04:25:58 +0000"
@@ -2313,6 +2326,18 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-23 04:37:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-03-23 04:25:58 +0000"
@@ -2322,6 +2347,12 @@
   "cfm:recipes/decorations/gray_picket_gate": {
     "criteria": {
       "has_gate": "2025-03-23 04:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-03-23 04:36:45 +0000"
     },
     "done": true
   },
@@ -2343,6 +2374,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-23 04:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-23 04:35:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_picket_gate": {
     "criteria": {
       "has_gate": "2025-03-23 04:25:58 +0000"
@@ -2352,6 +2413,18 @@
   "cfm:recipes/decorations/white_picket_gate": {
     "criteria": {
       "has_gate": "2025-03-23 04:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
     },
     "done": true
   },
@@ -2367,6 +2440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-23 04:35:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/red_picket_gate": {
     "criteria": {
       "has_gate": "2025-03-23 04:25:58 +0000"
@@ -2379,6 +2458,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-03-23 04:35:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_picket_gate": {
     "criteria": {
       "has_gate": "2025-03-23 04:25:58 +0000"
@@ -2388,6 +2485,12 @@
   "cfm:recipes/decorations/purple_picket_gate": {
     "criteria": {
       "has_gate": "2025-03-23 04:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
     },
     "done": true
   },
@@ -2406,6 +2509,36 @@
   "cfm:recipes/decorations/light_gray_picket_gate": {
     "criteria": {
       "has_gate": "2025-03-23 04:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-03-23 04:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-03-23 04:35:04 +0000"
     },
     "done": true
   },
@@ -2433,9 +2566,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-03-23 04:36:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_picket_gate": {
     "criteria": {
       "has_gate": "2025-03-23 04:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-23 04:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-03-23 04:35:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-23 04:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-23 04:35:04 +0000"
     },
     "done": true
   },
@@ -2445,9 +2632,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-03-23 04:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-03-23 04:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-23 04:37:54 +0000"
     },
     "done": true
   },
@@ -2457,9 +2668,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-23 04:37:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-03-23 04:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-03-23 04:35:04 +0000"
     },
     "done": true
   },
