@@ -2193,3 +2193,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Mar2025 03:33:28.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> uyuyuy
 [24Mar2025 03:34:31.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Frightening Rush]
 [24Mar2025 03:40:40.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Take Aim]
+[24Mar2025 03:43:21.313] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[24Mar2025 03:43:21.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [We Need to Go Deeper]
