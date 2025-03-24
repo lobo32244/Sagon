@@ -6705,3 +6705,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Mar2025 03:44:35.437] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-231, y=69, z=-26} in ResourceKey[minecraft:dimension / minecraft:the_nether]
 [24Mar2025 03:47:58.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Mar2025 03:47:58.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 03:52:58.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 03:52:58.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 03:55:01.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 fell from a high place
+[24Mar2025 03:55:07.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Ice Bucket Challenge]
+[24Mar2025 03:55:27.491] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[24Mar2025 03:55:27.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[24Mar2025 03:55:27.495] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[24Mar2025 03:55:27.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[24Mar2025 03:55:27.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[24Mar2025 03:55:27.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_1
+[24Mar2025 03:55:27.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[24Mar2025 03:55:27.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[24Mar2025 03:55:27.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[24Mar2025 03:55:27.499] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[24Mar2025 03:55:27.499] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[24Mar2025 03:56:25.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_3
+[24Mar2025 03:56:25.816] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[24Mar2025 03:57:40.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> gonciii
+[24Mar2025 03:57:43.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que
+[24Mar2025 03:57:47.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> encontré algo
+[24Mar2025 03:57:53.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> que cosa
+[24Mar2025 03:57:56.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> como un pozo
+[24Mar2025 03:57:58.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 03:57:58.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 03:58:01.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> donde
+[24Mar2025 03:58:04.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> es una estructure
+[24Mar2025 03:58:21.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> pues...
+[24Mar2025 03:58:31.032] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[24Mar2025 03:58:31.033] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1890, y=66, z=-174} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24Mar2025 03:58:31.034] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1890, y=66, z=-174} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24Mar2025 03:58:31.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> pasando la montaña
+[24Mar2025 03:58:34.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> de casa
+[24Mar2025 03:58:43.523] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[24Mar2025 03:58:43.528] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-231, y=69, z=-26} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[24Mar2025 03:58:43.529] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-231, y=69, z=-26} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[24Mar2025 03:59:02.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> detras de la montaña
+[24Mar2025 03:59:59.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> y encontré otra aldea
+[24Mar2025 04:00:37.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> slepping
