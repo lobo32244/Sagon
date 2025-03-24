@@ -6487,3 +6487,193 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Mar2025 03:17:51.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Mar2025 03:17:51.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Mar2025 03:20:55.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [A Seedy Place]
+[24Mar2025 03:22:51.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 03:22:51.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 03:24:12.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has reached the goal [Plant Food]
+[24Mar2025 03:25:25.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Ice Bucket Challenge]
+[24Mar2025 03:27:51.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 03:27:51.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 03:29:16.560] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[24Mar2025 03:29:16.567] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=830, z=1073200}"
+}
+[24Mar2025 03:29:16.568] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[24Mar2025 03:29:16.569] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[108, 107, 46, -64, 124, -95, 91, -2, -83, -12, -34]"
+]
+[24Mar2025 03:29:17.978] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[24Mar2025 03:29:17.979] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=932, z=1073200}"
+}
+[24Mar2025 03:29:17.979] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[24Mar2025 03:29:17.980] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[83, 104, 34, -53, -16, -84, -35, 19, 36, -50, -114]"
+]
+[24Mar2025 03:29:18.823] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[24Mar2025 03:29:18.824] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=910, z=1073200}"
+}
+[24Mar2025 03:29:18.824] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[24Mar2025 03:29:18.825] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-5, -53, 99, -98, 78, -73, 99, 91, 38, -7, 26]"
+]
+[24Mar2025 03:29:19.082] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[24Mar2025 03:29:19.083] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=961, z=1073200}"
+}
+[24Mar2025 03:29:19.083] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[24Mar2025 03:29:19.083] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-45, 28, -85, -76, -104, -93, -34, 121, -85, -111, 11]"
+]
+[24Mar2025 03:29:19.214] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[24Mar2025 03:29:19.215] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=810, z=1073200}"
+}
+[24Mar2025 03:29:19.215] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[24Mar2025 03:29:19.215] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[74, 27, -26, 81, -7, 60, -74, -117, 31, 37, -5]"
+]
+[24Mar2025 03:29:19.273] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[24Mar2025 03:29:19.273] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=817, z=1073200}"
+}
+[24Mar2025 03:29:19.273] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[24Mar2025 03:29:19.274] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-70, 54, -56, -86, -51, 39, 74, 112, -33, -84, 100]"
+]
+[24Mar2025 03:29:20.109] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[24Mar2025 03:29:20.109] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=779, z=1073200}"
+}
+[24Mar2025 03:29:20.109] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[24Mar2025 03:29:20.110] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[81, 102, 20, -94, -33, 37, 84, 75, -12, 107, -85]"
+]
+[24Mar2025 03:29:20.211] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[24Mar2025 03:29:20.211] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=909, z=1073200}"
+}
+[24Mar2025 03:29:20.212] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[24Mar2025 03:29:20.212] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-19, 2, -46, -88, 48, -66, -2, 55, 29, 74, 36]"
+]
+[24Mar2025 03:29:39.740] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[24Mar2025 03:29:39.740] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=944, z=1122352}"
+}
+[24Mar2025 03:29:39.740] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[24Mar2025 03:29:39.741] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-40, 9, -82, -102, -21, 3, -126, 91, 43, 82, 126]"
+]
+[24Mar2025 03:29:40.307] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[24Mar2025 03:29:40.307] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=1014, z=905264}"
+}
+[24Mar2025 03:29:40.307] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[24Mar2025 03:29:40.308] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[119, -38, -34, 113, -18, 90, -126, -102, 48, 105, 114]"
+]
+[24Mar2025 03:29:40.686] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[24Mar2025 03:29:40.687] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=815, z=856112}"
+}
+[24Mar2025 03:29:40.687] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[24Mar2025 03:29:40.687] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[96, 109, -94, 85, -94, -43, -128, -115, 99, 1, 86]"
+]
+[24Mar2025 03:29:59.370] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[24Mar2025 03:29:59.397] [Worker-Main-1/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[24Mar2025 03:29:59.408] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[24Mar2025 03:29:59.417] [Worker-Main-1/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[24Mar2025 03:29:59.418] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[24Mar2025 03:29:59.515] [Worker-Main-3/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[24Mar2025 03:29:59.515] [Worker-Main-3/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[24Mar2025 03:29:59.515] [Worker-Main-3/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[24Mar2025 03:29:59.574] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[24Mar2025 03:29:59.574] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[24Mar2025 03:30:00.096] [Worker-Main-1/DEBUG] [ModernFix/]: Structure bosses_of_mass_destruction:gauntlet_arena/base is being run through DFU (hash 0d871524445703c1a906ae6c3ac7e4ca8da8c54137a1bee15180b207637d0493), this will cause launch time delays
+[24Mar2025 03:30:00.096] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[24Mar2025 03:30:00.976] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/origin is being run through DFU (hash eba9fb8499290a2b22f3360af9be565101f546e673227b30d04c54b2246971ed), this will cause launch time delays
+[24Mar2025 03:30:01.077] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/branch_1 is being run through DFU (hash 8cef98a1fc9007f28f1de64441fe396fd412ce4e68a05c77026751bc0fc4b03b), this will cause launch time delays
+[24Mar2025 03:30:01.103] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/branch_2 is being run through DFU (hash 1402b2873b2703c95a1088ae5413810bf1cd5233483d9a1f7796f6a16e664853), this will cause launch time delays
+[24Mar2025 03:30:01.131] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/branch_5 is being run through DFU (hash d62f0abd99a57d0c0d5f830bb3ed7ab10f1e04676de130e2c85b9f5e440ea511), this will cause launch time delays
+[24Mar2025 03:30:01.162] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_2 is being run through DFU (hash a1e5f1426dfae2d1141ce1304042d65a65e86fbffec19b898779fdc5ebcd86aa), this will cause launch time delays
+[24Mar2025 03:30:01.165] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_7 is being run through DFU (hash b45a59834a01e319502830836d704fc77609557db157edc8d0d4bae74dac630c), this will cause launch time delays
+[24Mar2025 03:30:01.174] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/branch_3 is being run through DFU (hash 3680bbb9c9119f2010313d14f8aa0142e1e52e9c7807dc1fb7355c7af4d714af), this will cause launch time delays
+[24Mar2025 03:30:01.185] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/burial_4 is being run through DFU (hash 219b7c8cc05414444fff9fb89a2c82ea92cc95e5bc83b1c0b6010d30e8ef5465), this will cause launch time delays
+[24Mar2025 03:30:01.190] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_4 is being run through DFU (hash 91bf34c19657c84086e938d93515fac345e576abad71ba02028a8a3087294a1e), this will cause launch time delays
+[24Mar2025 03:30:01.195] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/fossil is being run through DFU (hash 25fac9c51a47f8e81baf1dadad65d575fc103c2fe17dad15685f48937c198922), this will cause launch time delays
+[24Mar2025 03:30:01.199] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/hill_2 is being run through DFU (hash b1242518c212f4d23472bf1737fbb408e6a33b60c95c63de72530b31cda7e8e1), this will cause launch time delays
+[24Mar2025 03:30:01.204] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/burial_1 is being run through DFU (hash fc32ef5e828d7e4907c36056fbc6a3526df51d04957c710c8a961c362adfa8f3), this will cause launch time delays
+[24Mar2025 03:30:01.207] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/skull_pile is being run through DFU (hash afc9952d0ab4c9b842448a9c669faa2245c1648641ee0f8bb5a56c133f144cab), this will cause launch time delays
+[24Mar2025 03:30:01.218] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/armor_1 is being run through DFU (hash 2704c91d7f3b3ad1a2906c239be26b2236098d39fbc1227174f46579eca05509), this will cause launch time delays
+[24Mar2025 03:30:01.220] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/burial_2 is being run through DFU (hash 7a126b333d92d1fec15fbcfef001d2df64430499fdb04a9a678edf1d931243d2), this will cause launch time delays
+[24Mar2025 03:30:01.221] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_1 is being run through DFU (hash d58544e8d28fc8e0857f64068ea5689162d769d51495dc057ccd999d4df8b9f2), this will cause launch time delays
+[24Mar2025 03:30:01.223] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/armor_2 is being run through DFU (hash 8763366e7d287db2bc02cd1ce509901f7aa3131e1e8d1b66f0431889baba97ca), this will cause launch time delays
+[24Mar2025 03:30:01.225] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_5 is being run through DFU (hash dacf895b3d60674144bfd8935517dc8a68be386b150c6373fce7df436a8289d8), this will cause launch time delays
+[24Mar2025 03:30:01.226] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/hill_3 is being run through DFU (hash eaab188e77ed7317bba29aea67a1da8c0808bf0792b751ad55510426cafed424), this will cause launch time delays
+[24Mar2025 03:30:01.230] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/hill_1 is being run through DFU (hash 5cd831dc8298a880eb00e3549e58b6f9e135e248f042923ff0947a5a54b58d5d), this will cause launch time delays
+[24Mar2025 03:30:01.233] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/banner_2 is being run through DFU (hash daac3aca3ea171b5aabffaf22bc4f3091327df9b097ae527087d83eaabb54490), this will cause launch time delays
+[24Mar2025 03:30:01.235] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_3 is being run through DFU (hash 9dc9b57962b007434f354af5c1bc3c617c2b5f2c4644738812b95a3d9d2a0a61), this will cause launch time delays
+[24Mar2025 03:30:01.237] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/banner is being run through DFU (hash 9648ba1d74fccde4cd7b727c14f78b19ab6ab222008fcdabf900c4ff96c4e405), this will cause launch time delays
+[24Mar2025 03:30:01.239] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/burial_3 is being run through DFU (hash 0e393f2753248aee5283966b8dc0b2d9adc5d8ec7837e3bbf5d8443d4f758db0), this will cause launch time delays
+[24Mar2025 03:30:01.244] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_6 is being run through DFU (hash ddf24bd806e3f131e3b3f33b29e639cdd8ec7203aa8876c072ed0bf0e6d0d5cf), this will cause launch time delays
+[24Mar2025 03:30:01.246] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/piglin_camp is being run through DFU (hash 609396aac7d7b9ab9ab630b0be2eaa3a44b551dcbf91739988963a8190697b58), this will cause launch time delays
+[24Mar2025 03:30:03.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [We Need to Go Deeper]
+[24Mar2025 03:30:03.321] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1890, y=66, z=-174} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24Mar2025 03:30:03.322] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1890, y=66, z=-174} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24Mar2025 03:30:06.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6809ms or 136 ticks behind
+[24Mar2025 03:30:06.537] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/3277, l='ServerLevel[world]', x=-280.00, y=31.00, z=-47.00] as it would cause deadlock
+[24Mar2025 03:30:24.437] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[24Mar2025 03:30:24.437] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[24Mar2025 03:30:41.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 burned to death
+[24Mar2025 03:30:54.619] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[24Mar2025 03:30:54.635] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1890, y=66, z=-174} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24Mar2025 03:30:54.635] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1890, y=66, z=-174} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24Mar2025 03:31:21.224] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[24Mar2025 03:31:21.243] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-231, y=69, z=-26} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[24Mar2025 03:31:21.244] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-231, y=69, z=-26} in ResourceKey[minecraft:dimension / minecraft:the_nether]
