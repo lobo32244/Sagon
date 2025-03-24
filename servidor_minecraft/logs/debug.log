@@ -6677,3 +6677,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Mar2025 03:31:21.224] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
 [24Mar2025 03:31:21.243] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-231, y=69, z=-26} in ResourceKey[minecraft:dimension / minecraft:the_nether]
 [24Mar2025 03:31:21.244] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-231, y=69, z=-26} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[24Mar2025 03:32:22.983] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[24Mar2025 03:32:22.984] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1890, y=66, z=-174} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24Mar2025 03:32:22.985] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1890, y=66, z=-174} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24Mar2025 03:32:58.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 03:32:58.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 03:33:23.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Piglin
+[24Mar2025 03:33:28.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> uyuyuy
+[24Mar2025 03:34:08.677] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[24Mar2025 03:34:08.679] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1890, y=66, z=-174} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24Mar2025 03:34:08.679] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1890, y=66, z=-174} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24Mar2025 03:34:31.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Frightening Rush]
+[24Mar2025 03:37:58.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 03:37:58.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 03:38:16.072] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[24Mar2025 03:38:16.090] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-231, y=69, z=-26} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[24Mar2025 03:38:16.091] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-231, y=69, z=-26} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[24Mar2025 03:40:40.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Take Aim]
