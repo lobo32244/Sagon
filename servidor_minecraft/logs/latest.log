@@ -2257,3 +2257,32 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Mar2025 04:51:54.775] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -3259 -56 -5187 in 2s
 [24Mar2025 04:52:04.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [The Journey Begins]
 [24Mar2025 04:53:42.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Take Aim]
+[24Mar2025 05:04:56.866] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ruined_portal took 34 ms
+[24Mar2025 05:06:53.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[24Mar2025 05:06:53.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[24Mar2025 05:06:53.815] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[24Mar2025 05:07:07.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.120.244.203:56421] logged in with entity id 30397 at (-1875.5757396818099, 64.0, -182.64676154358165)
+[24Mar2025 05:07:07.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[24Mar2025 05:07:07.374] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[24Mar2025 05:07:08.388] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[24Mar2025 05:07:08.388] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[24Mar2025 05:07:14.123] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[24Mar2025 05:07:15.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[24Mar2025 05:07:15.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[24Mar2025 05:08:10.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> ME revivis
+[24Mar2025 05:10:49.353] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 05:10:49.362] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 05:11:35.267] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[24Mar2025 05:11:35.267] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[24Mar2025 05:11:35.267] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[24Mar2025 05:11:35.277] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[24Mar2025 05:11:36.170] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[24Mar2025 05:11:36.178] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[24Mar2025 05:11:36.178] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[24Mar2025 05:11:36.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[24Mar2025 05:11:36.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[24Mar2025 05:11:36.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[24Mar2025 05:11:36.186] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[24Mar2025 05:11:37.025] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[24Mar2025 05:11:37.031] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[24Mar2025 05:11:37.031] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}

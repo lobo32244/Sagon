@@ -37,9 +37,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-03-24 05:11:34 +0000",
+      "minecraft:cherry_grove": "2025-03-24 05:11:33 +0000",
       "minecraft:birch_forest": "2025-03-24 00:25:00 +0000",
       "minecraft:savanna_plateau": "2025-03-22 20:08:41 +0000",
       "minecraft:beach": "2025-03-22 04:02:58 +0000",
+      "minecraft:dark_forest": "2025-03-24 05:09:59 +0000",
       "minecraft:mangrove_swamp": "2025-03-22 04:22:22 +0000",
       "minecraft:river": "2025-03-22 04:01:14 +0000",
       "minecraft:stony_shore": "2025-03-24 00:43:55 +0000",
@@ -48,6 +51,7 @@
       "minecraft:lush_caves": "2025-03-24 00:27:06 +0000",
       "minecraft:desert": "2025-03-22 03:35:52 +0000",
       "minecraft:windswept_savanna": "2025-03-22 04:28:44 +0000",
+      "minecraft:frozen_peaks": "2025-03-24 05:11:35 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-24 00:25:18 +0000",
       "minecraft:meadow": "2025-03-23 22:16:32 +0000",
       "minecraft:savanna": "2025-03-20 00:29:17 +0000",
@@ -3764,6 +3768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-24 05:03:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-03-24 04:38:19 +0000"
@@ -3812,6 +3822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-24 05:03:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_park_bench": {
     "criteria": {
       "has_log": "2025-03-24 04:28:36 +0000"
@@ -3830,6 +3846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-24 05:03:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2025-03-24 04:37:21 +0000"
@@ -3839,6 +3861,12 @@
   "cfm:recipes/decorations/birch_blinds": {
     "criteria": {
       "has_log": "2025-03-24 04:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-24 05:03:37 +0000"
     },
     "done": true
   },
