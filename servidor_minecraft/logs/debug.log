@@ -8488,3 +8488,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Mar2025 00:00:23.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was doomed to fall by Cave Creeper
 [24Mar2025 00:01:05.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Mar2025 00:01:05.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 00:01:38.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
+[24Mar2025 00:03:27.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 fell from a high place
+[24Mar2025 00:06:05.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 00:06:05.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 00:08:15.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was doomed to fall by Necromancer
+[24Mar2025 00:09:21.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [The Parrots and the Bats]
+[24Mar2025 00:09:56.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was blown up by Creeper
+[24Mar2025 00:11:00.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was slain by Grizzly Bear
+[24Mar2025 00:11:05.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 00:11:05.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
