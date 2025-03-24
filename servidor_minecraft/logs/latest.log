@@ -2296,3 +2296,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Mar2025 05:22:27.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzz
 [24Mar2025 05:22:29.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zz
 [24Mar2025 05:22:30.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[24Mar2025 05:24:13.658] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/36864, l='ServerLevel[world]', x=-279.00, y=31.00, z=229.00] as it would cause deadlock
+[24Mar2025 05:24:39.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Nightmare Fuel]
+[24Mar2025 05:24:50.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> nooo comoo?
+[24Mar2025 05:24:55.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> pobre Gonci
+[24Mar2025 05:25:02.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> XD
+[24Mar2025 05:25:40.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[24Mar2025 05:25:57.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to Santix15]
+[24Mar2025 05:26:02.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> jajaaja
+[24Mar2025 05:26:03.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[24Mar2025 05:28:21.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to -920.500000, 63.500000, 63.500000]
+[24Mar2025 05:28:36.585] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ruined_portal took 0 ms
+[24Mar2025 05:32:56.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to -1343.500000, 63.500000, 483.500000]
+[24Mar2025 05:33:08.624] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ruined_portal took 0 ms

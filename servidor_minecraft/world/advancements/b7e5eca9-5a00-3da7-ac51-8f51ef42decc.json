@@ -3470,6 +3470,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-03-24 05:24:29 +0000",
       "minecraft:nether_wastes": "2025-03-24 03:35:30 +0000",
       "minecraft:soul_sand_valley": "2025-03-24 03:30:06 +0000"
     },
@@ -3778,6 +3779,12 @@
   "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
       "has_potato": "2025-03-24 04:37:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-03-24 05:24:39 +0000"
     },
     "done": true
   },
@@ -4162,6 +4169,12 @@
   "cfm:recipes/decorations/dark_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-03-24 05:14:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-03-24 05:32:41 +0000"
     },
     "done": true
   },
