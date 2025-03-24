@@ -7385,3 +7385,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Mar2025 05:12:56.034] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
 [24Mar2025 05:12:58.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Mar2025 05:12:58.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 05:16:33.736] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_5 is being run through DFU (hash 149ee8c3ee5b20593dc9bfe3399281b2cc7621ee72cfd00040b59a3cc4d749a5), this will cause launch time delays
+[24Mar2025 05:16:48.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Spectator Mode]
+[24Mar2025 05:17:07.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[24Mar2025 05:17:09.208] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Mar2025 05:17:23.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Who is Cutting Onions?]
+[24Mar2025 05:17:58.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 05:17:58.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 05:17:58.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Spectator Mode]
+[24Mar2025 05:18:28.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[24Mar2025 05:19:28.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported lobo3224 to Santix15]
+[24Mar2025 05:20:44.142] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ruined_portal took 0 ms
+[24Mar2025 05:22:27.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zzz
+[24Mar2025 05:22:29.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> zz
+[24Mar2025 05:22:30.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> z
+[24Mar2025 05:22:58.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 05:22:58.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 05:23:00.926] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[24Mar2025 05:23:00.927] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1890, y=66, z=-174} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24Mar2025 05:23:00.928] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1890, y=66, z=-174} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24Mar2025 05:23:24.735] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-231, y=69, z=-26} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[24Mar2025 05:23:43.877] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal found, redirecting! :)
+[24Mar2025 05:23:43.878] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1890, y=66, z=-174} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24Mar2025 05:23:43.878] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-1890, y=66, z=-174} in ResourceKey[minecraft:dimension / minecraft:overworld]
