@@ -2249,3 +2249,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Mar2025 04:15:51.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
 [24Mar2025 04:15:51.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
 [24Mar2025 04:17:03.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> encontre otra nave más grande
+[24Mar2025 04:30:04.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Hunt and Gather]

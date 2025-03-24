@@ -3633,6 +3633,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-03-24 04:31:18 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/soul_candle": {
     "criteria": {
       "has_planks": "2025-03-24 03:43:50 +0000"
