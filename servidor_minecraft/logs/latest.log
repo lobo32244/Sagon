@@ -2250,3 +2250,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Mar2025 04:15:51.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
 [24Mar2025 04:17:03.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> encontre otra nave más grande
 [24Mar2025 04:30:04.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Hunt and Gather]
+[24Mar2025 04:46:21.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Lorem Ipsum]
+[24Mar2025 04:50:30.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [It Belongs in a Museum]
+[24Mar2025 04:51:23.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [The Journey Begins]
+[24Mar2025 04:51:45.792] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at -3744 -56 -6216 in 2s
+[24Mar2025 04:51:54.775] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -3259 -56 -5187 in 2s
+[24Mar2025 04:52:04.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [The Journey Begins]

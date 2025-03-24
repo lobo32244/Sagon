@@ -7029,3 +7029,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Mar2025 04:37:58.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Mar2025 04:42:58.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Mar2025 04:42:58.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 04:46:21.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Lorem Ipsum]
+[24Mar2025 04:47:58.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 04:47:58.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 04:50:30.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [It Belongs in a Museum]
+[24Mar2025 04:51:23.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [The Journey Begins]
+[24Mar2025 04:51:45.792] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at -3744 -56 -6216 in 2s
+[24Mar2025 04:51:54.775] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -3259 -56 -5187 in 2s
+[24Mar2025 04:52:04.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [The Journey Begins]
+[24Mar2025 04:52:58.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 04:52:58.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
