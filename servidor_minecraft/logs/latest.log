@@ -2256,3 +2256,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Mar2025 04:51:45.792] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at -3744 -56 -6216 in 2s
 [24Mar2025 04:51:54.775] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -3259 -56 -5187 in 2s
 [24Mar2025 04:52:04.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [The Journey Begins]
+[24Mar2025 04:53:42.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Take Aim]
