@@ -8498,3 +8498,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Mar2025 00:11:00.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was slain by Grizzly Bear
 [24Mar2025 00:11:05.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Mar2025 00:11:05.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 00:16:05.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 00:16:05.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 00:20:21.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Cover Me with Diamonds]
+[24Mar2025 00:21:05.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 00:21:05.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
