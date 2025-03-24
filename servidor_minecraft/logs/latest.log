@@ -8,3 +8,43 @@
 [24Mar2025 00:20:21.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Cover Me with Diamonds]
 [24Mar2025 00:30:01.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1890, y=65, z=-193} BlockPos{x=-1890, y=64, z=-194}
 [24Mar2025 00:31:04.298] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[24Mar2025 00:36:21.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[24Mar2025 00:36:21.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[24Mar2025 00:36:21.134] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[24Mar2025 00:36:29.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.120.244.203:42309] logged in with entity id 33288 at (-2006.5674507384517, -44.0, -349.7695055321329)
+[24Mar2025 00:36:29.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[24Mar2025 00:36:29.063] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[24Mar2025 00:36:29.617] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[24Mar2025 00:36:29.617] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[24Mar2025 00:36:32.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[24Mar2025 00:36:33.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[24Mar2025 00:36:33.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[24Mar2025 00:41:56.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Pic-A-Nic Basket?]
+[24Mar2025 00:44:47.936] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae timed out
+[24Mar2025 00:44:47.936] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Santix15
+[24Mar2025 00:44:47.936] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[24Mar2025 00:45:03.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 drowned
+[24Mar2025 00:45:24.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Timed out
+[24Mar2025 00:45:24.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[24Mar2025 00:45:24.127] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[24Mar2025 00:45:41.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.120.244.203:53785] logged in with entity id 35507 at (-1704.1918628190786, 58.139258363468315, -407.0460302506452)
+[24Mar2025 00:45:41.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[24Mar2025 00:45:41.206] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[24Mar2025 00:45:41.810] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[24Mar2025 00:45:41.810] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[24Mar2025 00:45:44.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[24Mar2025 00:45:45.500] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[24Mar2025 00:45:45.501] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[24Mar2025 00:45:50.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Teleported Santix15 to lobo3224]
+[24Mar2025 00:49:41.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Zombie
+[24Mar2025 00:51:34.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[24Mar2025 00:51:34.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[24Mar2025 00:51:34.735] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[24Mar2025 00:51:54.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.120.244.203:58063] logged in with entity id 39115 at (-1331.9062468017148, 72.0, -46.36203307789524)
+[24Mar2025 00:51:54.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[24Mar2025 00:51:54.807] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[24Mar2025 00:51:55.341] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[24Mar2025 00:51:55.341] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[24Mar2025 00:51:57.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[24Mar2025 00:51:58.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[24Mar2025 00:51:58.712] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat

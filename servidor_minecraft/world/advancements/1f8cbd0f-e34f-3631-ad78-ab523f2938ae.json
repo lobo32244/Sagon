@@ -41,6 +41,7 @@
       "minecraft:beach": "2025-03-22 04:02:50 +0000",
       "minecraft:mangrove_swamp": "2025-03-22 04:20:42 +0000",
       "minecraft:river": "2025-03-22 04:01:31 +0000",
+      "minecraft:stony_shore": "2025-03-24 00:43:30 +0000",
       "minecraft:forest": "2025-03-22 20:21:21 +0000",
       "minecraft:desert": "2025-03-22 04:29:36 +0000",
       "minecraft:windswept_savanna": "2025-03-22 04:28:38 +0000",
@@ -3043,27 +3044,27 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/birch_cabinet": {
+  "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
-      "has_log": "2025-03-23 23:42:52 +0000"
+      "has_yellow_wool": "2025-03-23 23:22:38 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/birch_desk_cabinet": {
+  "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
-      "has_log": "2025-03-23 23:42:52 +0000"
+      "has_yellow_wool": "2025-03-23 23:22:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
+  "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
-      "has_planks": "2025-03-23 23:50:18 +0000"
+      "has_yellow_wool": "2025-03-23 23:22:38 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
+  "cfm:recipes/decorations/yellow_sofa": {
     "criteria": {
-      "has_any_ingredient": "2025-03-24 00:16:58 +0000"
+      "has_wool": "2025-03-23 23:22:38 +0000"
     },
     "done": true
   },
@@ -3073,21 +3074,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_smelts_to_glass": "2025-03-23 23:57:02 +0000"
+      "has_bone_meal": "2025-03-23 23:41:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_door": {
+  "cfm:recipes/decorations/birch_cabinet": {
     "criteria": {
-      "has_planks": "2025-03-23 23:50:18 +0000"
+      "has_log": "2025-03-23 23:42:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_fence": {
+  "cfm:recipes/decorations/birch_desk_cabinet": {
     "criteria": {
-      "has_planks": "2025-03-23 23:50:18 +0000"
+      "has_log": "2025-03-23 23:42:52 +0000"
     },
     "done": true
   },
@@ -3109,24 +3110,6 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2025-03-24 00:20:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-03-24 00:07:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-03-23 23:50:18 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_birch_park_bench": {
     "criteria": {
       "has_log": "2025-03-23 23:42:52 +0000"
@@ -3139,27 +3122,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_bed": {
-    "criteria": {
-      "has_yellow_wool": "2025-03-23 23:22:38 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2025-03-23 23:42:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-03-24 00:15:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-03-23 23:50:18 +0000"
     },
     "done": true
   },
@@ -3175,12 +3140,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-03-23 23:50:18 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_birch_chair": {
     "criteria": {
       "has_planks": "2025-03-23 23:42:52 +0000"
@@ -3193,18 +3152,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-03-23 23:50:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-03-24 00:09:21 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_birch_coffee_table": {
     "criteria": {
       "has_planks": "2025-03-23 23:42:52 +0000"
@@ -3214,12 +3161,6 @@
   "cfm:recipes/decorations/stripped_birch_desk": {
     "criteria": {
       "has_planks": "2025-03-23 23:42:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-03-24 00:30:06 +0000"
     },
     "done": true
   },
@@ -3265,27 +3206,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-03-23 23:50:18 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/birch_coffee_table": {
     "criteria": {
       "has_log": "2025-03-23 23:42:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-03-23 23:57:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_banner": {
-    "criteria": {
-      "has_yellow_wool": "2025-03-23 23:22:38 +0000"
     },
     "done": true
   },
@@ -3295,9 +3218,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_carpet": {
+  "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
     "criteria": {
-      "has_yellow_wool": "2025-03-23 23:22:38 +0000"
+      "has_log": "2025-03-23 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-03-23 23:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-03-23 23:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-03-23 23:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-03-23 23:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-23 23:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-03-23 23:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-23 23:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-23 23:50:18 +0000"
     },
     "done": true
   },
@@ -3307,21 +3278,57 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_log": "2025-03-23 23:42:52 +0000"
+      "has_smelts_to_glass": "2025-03-23 23:57:02 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/yellow_sofa": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_wool": "2025-03-23 23:22:38 +0000"
+      "has_sand": "2025-03-23 23:57:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "has_bone_meal": "2025-03-23 23:41:38 +0000"
+      "has_rose_bush": "2025-03-24 00:07:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-24 00:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-24 00:15:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-24 00:16:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-03-24 00:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-03-24 00:30:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-24 00:41:56 +0000"
     },
     "done": true
   },
