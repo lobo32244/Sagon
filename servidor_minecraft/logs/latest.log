@@ -6,3 +6,5 @@
 [24Mar2025 00:09:56.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was blown up by Creeper
 [24Mar2025 00:11:00.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 was slain by Grizzly Bear
 [24Mar2025 00:20:21.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Cover Me with Diamonds]
+[24Mar2025 00:30:01.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1890, y=65, z=-193} BlockPos{x=-1890, y=64, z=-194}
+[24Mar2025 00:31:04.298] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
