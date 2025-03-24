@@ -9153,3 +9153,25 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Mar2025 00:51:58.712] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of lobo3224 to connected: {disabled=false, disconnected=false, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=null}
 [24Mar2025 00:51:58.712] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
 [24Mar2025 00:51:59.035] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of lobo3224: {disabled=false, disconnected=false, uuid=b7e5eca9-5a00-3da7-ac51-8f51ef42decc, name=lobo3224, group=null}
+[24Mar2025 00:53:01.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 fell from a high place
+[24Mar2025 00:56:05.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 00:56:05.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 00:58:49.373] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house
+[24Mar2025 00:58:49.375] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[24Mar2025 01:00:25.949] [Worker-Main-107/DEBUG] [ModernFix/]: Structure irons_spellbooks:priest_house_taiga is being run through DFU (hash 9f117e8cc42e857987c04d6a9ce33bca12377eb6160657f728880afeab584e49), this will cause launch time delays
+[24Mar2025 01:00:41.487] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[24Mar2025 01:00:41.494] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[24Mar2025 01:00:41.499] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[24Mar2025 01:00:41.501] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[24Mar2025 01:00:41.506] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[24Mar2025 01:00:41.510] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[24Mar2025 01:00:41.510] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[24Mar2025 01:00:41.511] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[24Mar2025 01:00:41.511] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[24Mar2025 01:00:41.512] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[24Mar2025 01:00:41.513] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[24Mar2025 01:00:41.513] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/potato
+[24Mar2025 01:00:41.514] [Worker-Main-56/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[24Mar2025 01:00:41.514] [Worker-Main-56/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[24Mar2025 01:01:05.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 01:01:05.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

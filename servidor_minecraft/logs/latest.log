@@ -48,3 +48,5 @@
 [24Mar2025 00:51:57.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
 [24Mar2025 00:51:58.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
 [24Mar2025 00:51:58.712] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[24Mar2025 00:53:01.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 fell from a high place
+[24Mar2025 01:00:41.514] [Worker-Main-56/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
