@@ -3408,9 +3408,27 @@
     },
     "done": true
   },
-  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_item": "2025-03-24 03:32:46 +0000"
+      "has_bone_meal": "2025-03-24 03:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-24 03:19:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-03-24 03:20:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-24 03:20:55 +0000"
     },
     "done": true
   },
@@ -3420,27 +3438,27 @@
     },
     "done": true
   },
-  "netherexp:recipes/misc/soul_jack_o_lantern": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "has_item": "2025-03-24 03:33:01 +0000"
+      "obsidian": "2025-03-24 03:25:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "has_stone_bricks": "2025-03-24 04:02:41 +0000"
+      "has_obsidian": "2025-03-24 03:25:25 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_pumpkin": "2025-03-24 03:55:32 +0000"
+      "entered_nether": "2025-03-24 03:30:03 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_wishing_well": {
+  "minecraft:nether/root": {
     "criteria": {
-      "location0": "2025-03-24 04:01:29 +0000"
+      "entered_nether": "2025-03-24 03:30:03 +0000"
     },
     "done": true
   },
@@ -3451,27 +3469,15 @@
     },
     "done": false
   },
-  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+  "netherexp:nether/soul_sand_valley": {
     "criteria": {
-      "has_item": "2025-03-24 03:33:01 +0000"
+      "condition": "2025-03-24 03:30:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
     "criteria": {
-      "has_bone_meal": "2025-03-24 03:19:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-03-24 04:02:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-03-24 04:02:41 +0000"
+      "has_item": "2025-03-24 03:32:46 +0000"
     },
     "done": true
   },
@@ -3481,27 +3487,57 @@
     },
     "done": true
   },
-  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+  "netherexp:recipes/soul_slate/jagged": {
     "criteria": {
-      "has_item": "2025-03-24 03:33:05 +0000"
+      "has_planks": "2025-03-24 03:32:46 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "netherexp:recipes/soul_slate/wall": {
     "criteria": {
-      "entered_nether": "2025-03-24 03:30:03 +0000"
+      "has_planks": "2025-03-24 03:32:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+  "netherexp:recipes/soul_slate/pale": {
     "criteria": {
-      "has_stone_bricks": "2025-03-24 04:02:41 +0000"
+      "has_planks": "2025-03-24 03:32:46 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/bone_blocks/bone_cortical": {
+  "netherexp:recipes/soul_slate/slab": {
     "criteria": {
-      "has_item": "2025-03-24 03:33:05 +0000"
+      "has_planks": "2025-03-24 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/stairs": {
+    "criteria": {
+      "has_planks": "2025-03-24 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-03-24 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks_from_etched": {
+    "criteria": {
+      "has_item": "2025-03-24 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_jack_o_lantern": {
+    "criteria": {
+      "has_item": "2025-03-24 03:33:01 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-03-24 03:33:01 +0000"
     },
     "done": true
   },
@@ -3529,105 +3565,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/soul_slate/jagged": {
-    "criteria": {
-      "has_planks": "2025-03-24 03:32:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-03-24 04:02:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-03-24 03:55:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-24 03:55:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-03-24 03:33:01 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/soul_sand_valley": {
-    "criteria": {
-      "condition": "2025-03-24 03:30:06 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/wall": {
-    "criteria": {
-      "has_planks": "2025-03-24 03:32:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-03-24 03:33:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "wheat": "2025-03-24 03:20:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-03-24 04:02:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-03-24 03:55:32 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/pale": {
-    "criteria": {
-      "has_planks": "2025-03-24 03:32:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-03-24 03:51:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-03-24 04:02:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-03-24 03:30:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-03-24 04:02:41 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/frightening_rush": {
-    "criteria": {
-      "condition": "2025-03-24 03:34:31 +0000"
     },
     "done": true
   },
@@ -3637,27 +3577,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-03-24 04:02:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-03-24 03:25:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-03-24 03:33:01 +0000"
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-03-24 03:33:05 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-03-24 03:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-24 03:33:05 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/stacked_bones": {
     "criteria": {
       "has_item": "2025-03-24 03:33:05 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-03-24 03:34:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-03-24 03:51:56 +0000"
     },
     "done": true
   },
@@ -3673,51 +3631,93 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
-      "wheat": "2025-03-24 03:20:55 +0000"
+      "has_pumpkin": "2025-03-24 03:55:32 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/soul_slate/slab": {
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "has_planks": "2025-03-24 03:32:46 +0000"
+      "has_pumpkin": "2025-03-24 03:55:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
-      "has_obsidian": "2025-03-24 03:25:25 +0000"
+      "has_any_ingredient": "2025-03-24 03:55:32 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/soul_slate/stairs": {
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
-      "has_planks": "2025-03-24 03:32:46 +0000"
+      "has_pumpkin": "2025-03-24 03:55:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "dungeons_arise:find_wishing_well": {
     "criteria": {
-      "has_netherrack": "2025-03-24 03:32:46 +0000"
+      "location0": "2025-03-24 04:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 04:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 04:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 04:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 04:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-03-24 04:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 04:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 04:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 04:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-24 04:02:41 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-03-24 04:02:51 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/soul_slate/bricks_from_etched": {
-    "criteria": {
-      "has_item": "2025-03-24 03:32:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-03-24 03:19:46 +0000"
     },
     "done": true
   },

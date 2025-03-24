@@ -2211,3 +2211,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24Mar2025 03:59:59.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> y encontré otra aldea
 [24Mar2025 04:00:37.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> slepping
 [24Mar2025 04:04:03.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> fui a buscar vacas
+[24Mar2025 04:13:56.652] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[24Mar2025 04:13:56.653] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[24Mar2025 04:13:56.653] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[24Mar2025 04:13:56.654] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[24Mar2025 04:13:56.654] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[24Mar2025 04:13:56.680] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[24Mar2025 04:13:56.681] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[24Mar2025 04:13:56.681] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[24Mar2025 04:13:56.681] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[24Mar2025 04:13:56.681] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[24Mar2025 04:13:56.682] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[24Mar2025 04:13:56.682] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[24Mar2025 04:13:56.686] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[24Mar2025 04:13:56.686] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[24Mar2025 04:13:56.686] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[24Mar2025 04:13:58.817] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[24Mar2025 04:13:58.817] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[24Mar2025 04:13:58.817] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[24Mar2025 04:13:58.818] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[24Mar2025 04:13:58.866] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[24Mar2025 04:13:58.867] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[24Mar2025 04:13:58.867] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[24Mar2025 04:13:58.867] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[24Mar2025 04:13:58.873] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[24Mar2025 04:13:58.873] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[24Mar2025 04:13:58.874] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[24Mar2025 04:15:27.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[24Mar2025 04:15:27.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[24Mar2025 04:15:27.071] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[24Mar2025 04:15:45.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lobo3224[/127.167.11.174:58153] logged in with entity id 20660 at (-874.159963088533, 77.0, 49.290075319929706)
+[24Mar2025 04:15:45.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 joined the game
+[24Mar2025 04:15:45.951] [Server thread/INFO] [Jade/]: Syncing config to lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc)
+[24Mar2025 04:15:46.754] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lobo3224 (18)
+[24Mar2025 04:15:46.755] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lobo3224
+[24Mar2025 04:15:50.681] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[24Mar2025 04:15:51.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b7e5eca9-5a00-3da7-ac51-8f51ef42decc
+[24Mar2025 04:15:51.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lobo3224 (b7e5eca9-5a00-3da7-ac51-8f51ef42decc) successfully connected to voice chat
+[24Mar2025 04:17:03.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> encontre otra nave más grande
