@@ -3067,6 +3067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-23 23:57:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-03-23 23:50:18 +0000"
@@ -3232,6 +3238,12 @@
   "cfm:recipes/decorations/birch_coffee_table": {
     "criteria": {
       "has_log": "2025-03-23 23:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-23 23:57:02 +0000"
     },
     "done": true
   },
