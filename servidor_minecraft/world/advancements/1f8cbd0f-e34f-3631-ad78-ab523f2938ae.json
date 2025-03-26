@@ -46,6 +46,7 @@
       "minecraft:forest": "2025-03-22 20:21:21 +0000",
       "minecraft:desert": "2025-03-22 04:29:36 +0000",
       "minecraft:windswept_savanna": "2025-03-22 04:28:38 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-26 00:21:46 +0000",
       "minecraft:meadow": "2025-03-24 00:52:43 +0000",
       "minecraft:savanna": "2025-03-22 03:39:54 +0000",
       "minecraft:plains": "2025-03-22 04:46:09 +0000"
@@ -472,7 +473,8 @@
       "minecraft:spider": "2025-03-22 03:54:32 +0000",
       "minecraft:zombified_piglin": "2025-03-25 01:28:13 +0000",
       "minecraft:husk": "2025-03-22 04:15:37 +0000",
-      "minecraft:zombie": "2025-03-22 03:54:16 +0000"
+      "minecraft:zombie": "2025-03-22 03:54:16 +0000",
+      "minecraft:zombie_villager": "2025-03-26 00:28:50 +0000"
     },
     "done": false
   },

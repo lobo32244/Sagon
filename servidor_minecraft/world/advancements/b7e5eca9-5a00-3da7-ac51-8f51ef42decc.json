@@ -4224,9 +4224,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-26 00:28:51 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
     "criteria": {
       "has_soil": "2025-03-26 00:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-26 00:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-26 00:28:51 +0000"
     },
     "done": true
   },

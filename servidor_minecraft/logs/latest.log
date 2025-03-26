@@ -2224,3 +2224,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "<partial numeric data>",
   "[16, -82, -4, -37, -34, -38, 85, 44, 100, 67, 99]"
 ]
+[26Mar2025 00:26:21.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was shot by Skeleton
