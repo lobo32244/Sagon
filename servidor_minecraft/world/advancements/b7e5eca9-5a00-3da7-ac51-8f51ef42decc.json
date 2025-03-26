@@ -4224,5 +4224,29 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
+    "criteria": {
+      "has_soil": "2025-03-26 00:14:17 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_soil_layer": {
+    "criteria": {
+      "has_item": "2025-03-26 00:14:17 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
+    "criteria": {
+      "has_soil": "2025-03-26 00:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-26 00:14:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
