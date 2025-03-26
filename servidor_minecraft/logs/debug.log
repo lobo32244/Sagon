@@ -6897,3 +6897,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Mar2025 00:34:27.376] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening
 [26Mar2025 00:34:27.376] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage
 [26Mar2025 00:34:27.377] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage
+[26Mar2025 00:35:59.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 00:35:59.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 00:36:05.642] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2443, y=58, z=-1017}
+[26Mar2025 00:36:05.649] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2466, y=51, z=-1046}
+[26Mar2025 00:36:05.661] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2480, y=70, z=-1040}
+[26Mar2025 00:36:05.668] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2443, y=58, z=-1017}
+[26Mar2025 00:36:05.673] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2480, y=70, z=-1040}
+[26Mar2025 00:36:05.683] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2443, y=58, z=-1017}
+[26Mar2025 00:36:05.687] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2460, y=51, z=-1026}
+[26Mar2025 00:36:05.687] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2466, y=51, z=-1033}
+[26Mar2025 00:36:05.687] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2466, y=51, z=-1046}
+[26Mar2025 00:36:05.688] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2467, y=51, z=-1039}
+[26Mar2025 00:36:05.688] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2474, y=51, z=-1033}
+[26Mar2025 00:38:06.203] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[26Mar2025 00:38:06.211] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/skeleton_armored_1 is being run through DFU (hash 496ef0a3e5b47f98675b8246248b31e2cbd0e71657b6cdad6f6576e693b9ec35), this will cause launch time delays
+[26Mar2025 00:38:06.211] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[26Mar2025 00:38:06.956] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/illusioner_normal_0 is being run through DFU (hash 6f23502f1c946861055d5d38e3de8e783681f1bc18b8a4d6bac34080fd1ef525), this will cause launch time delays
+[26Mar2025 00:38:06.964] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/skeleton_armored_0 is being run through DFU (hash 0b114af481df7368765dfcb485fd7685ad7c029bd69ef06a87e635e2b056efcd), this will cause launch time delays
+[26Mar2025 00:38:06.976] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_road_entrance is being run through DFU (hash 05f8cd9492c5bbdbec92626c83fcaea8444e57e04ec5360ee8bfeda3ee24e5a7), this will cause launch time delays
+[26Mar2025 00:38:06.988] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_road_0 is being run through DFU (hash cd59cca472ec362a97b1a1854dfa82099f282d0fb9a21cc66cf573803f206ab1), this will cause launch time delays
+[26Mar2025 00:38:07.003] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_road_1 is being run through DFU (hash fc7cf9b3399e33f8a4f8c473d3039ecaef66e6d1ab6c26b8b95945c01d37f77f), this will cause launch time delays
+[26Mar2025 00:40:59.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 00:40:59.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Mar2025 00:42:10.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1865, y=66, z=-231} BlockPos{x=-1865, y=65, z=-232}
+[26Mar2025 00:42:11.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1867, y=67, z=-232} BlockPos{x=-1870, y=66, z=-232}
+[26Mar2025 00:42:11.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1868, y=66, z=-229} BlockPos{x=-1870, y=66, z=-231}
+[26Mar2025 00:45:59.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Mar2025 00:45:59.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

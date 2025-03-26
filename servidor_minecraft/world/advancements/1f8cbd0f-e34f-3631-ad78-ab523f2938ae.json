@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-03-26 00:33:27 +0000",
       "minecraft:birch_forest": "2025-03-25 00:49:54 +0000",
       "minecraft:savanna_plateau": "2025-03-23 22:55:31 +0000",
       "minecraft:beach": "2025-03-22 04:02:50 +0000",
@@ -4158,6 +4159,36 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2025-03-25 01:37:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-26 00:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-03-26 00:33:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-03-26 00:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-03-26 00:33:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-03-26 00:31:54 +0000"
     },
     "done": true
   },
