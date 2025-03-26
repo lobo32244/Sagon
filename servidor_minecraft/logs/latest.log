@@ -2229,3 +2229,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26Mar2025 00:42:10.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1865, y=66, z=-231} BlockPos{x=-1865, y=65, z=-232}
 [26Mar2025 00:42:11.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1867, y=67, z=-232} BlockPos{x=-1870, y=66, z=-232}
 [26Mar2025 00:42:11.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1868, y=66, z=-229} BlockPos{x=-1870, y=66, z=-231}
+[26Mar2025 01:02:56.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[26Mar2025 01:02:56.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[26Mar2025 01:02:56.278] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
