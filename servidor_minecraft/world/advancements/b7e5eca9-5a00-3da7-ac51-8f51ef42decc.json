@@ -4194,12 +4194,6 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-03-25 01:21:47 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-03-25 00:53:34 +0000"
@@ -4221,6 +4215,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-03-25 01:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-25 01:21:47 +0000"
     },
     "done": true
   },
