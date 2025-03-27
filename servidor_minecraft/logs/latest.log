@@ -2108,3 +2108,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Mar2025 21:20:48.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [27Mar2025 21:20:48.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
 [27Mar2025 21:24:35.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Enchanter]
+[27Mar2025 21:27:49.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[27Mar2025 21:27:49.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[27Mar2025 21:27:49.290] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
