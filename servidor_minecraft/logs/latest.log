@@ -2048,3 +2048,42 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Mar2025 20:47:22.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
 [27Mar2025 20:49:49.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has reached the goal [Plant Food]
 [27Mar2025 20:52:48.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> puto Gonci
+[27Mar2025 20:59:18.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Gone Bananas!]
+[27Mar2025 20:59:30.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> uuuuf
+[27Mar2025 20:59:31.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Pest Control]
+[27Mar2025 21:03:09.651] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[27Mar2025 21:03:09.658] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=979, z=1073200}"
+}
+[27Mar2025 21:03:09.659] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[27Mar2025 21:03:09.662] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[7, -47, -79, -33, -127, -61, -66, -60, -93, -41, -32]"
+]
+[27Mar2025 21:03:10.157] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[27Mar2025 21:03:10.158] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=906, z=1073200}"
+}
+[27Mar2025 21:03:10.158] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[27Mar2025 21:03:10.159] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[90, -72, 32, 99, -20, -84, 111, -20, 101, 83, 13]"
+]
+[27Mar2025 21:03:33.661] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[27Mar2025 21:03:33.662] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=798, z=905264}"
+}
+[27Mar2025 21:03:33.662] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[27Mar2025 21:03:33.662] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-6, 18, -47, 5, -101, 122, -15, -67, 100, 63, -28]"
+]
