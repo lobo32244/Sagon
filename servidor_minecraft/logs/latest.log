@@ -2091,3 +2091,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Mar2025 21:09:18.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
 [27Mar2025 21:09:18.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
 [27Mar2025 21:09:18.742] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[27Mar2025 21:16:21.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae timed out
+[27Mar2025 21:16:21.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Santix15
+[27Mar2025 21:16:21.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[27Mar2025 21:17:04.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Timed out
+[27Mar2025 21:17:04.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[27Mar2025 21:17:04.189] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[27Mar2025 21:17:04.244] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Mar2025 21:20:31.288] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@bc41fd0[id=<null>,name=Santix15,properties={},legacy=false] (/127.65.139.229:33339) lost connection: Disconnected
+[27Mar2025 21:20:41.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.65.139.229:51581] logged in with entity id 5549 at (-1873.4530578260737, 65.0, -191.68848360128695)
+[27Mar2025 21:20:41.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[27Mar2025 21:20:41.817] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[27Mar2025 21:20:42.317] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[27Mar2025 21:20:42.318] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[27Mar2025 21:20:47.692] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[27Mar2025 21:20:48.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[27Mar2025 21:20:48.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[27Mar2025 21:24:35.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Enchanter]
