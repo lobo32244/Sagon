@@ -4464,6 +4464,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-03-27 03:36:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-27 03:27:35 +0000"
@@ -4500,15 +4506,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-03-27 03:36:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-03-27 03:27:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-27 03:36:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-27 03:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-27 03:36:53 +0000"
     },
     "done": true
   },
