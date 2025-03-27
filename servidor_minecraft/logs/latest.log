@@ -3492,3 +3492,17 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	... 28 more
 [27Mar2025 04:17:08.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6984, l='ServerLevel[world]', x=-1851.84, y=96.00, z=-130.29] died, message: 'Unemployed burned to death'
+[27Mar2025 04:21:20.777] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae timed out
+[27Mar2025 04:21:20.777] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Santix15
+[27Mar2025 04:21:20.777] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[27Mar2025 04:22:00.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Timed out
+[27Mar2025 04:22:00.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[27Mar2025 04:22:00.173] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[27Mar2025 04:27:27.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.65.139.229:58293] logged in with entity id 26898 at (-1909.4310761498273, 75.0, -289.17577600795175)
+[27Mar2025 04:27:27.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[27Mar2025 04:27:27.506] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[27Mar2025 04:27:30.040] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[27Mar2025 04:27:30.040] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[27Mar2025 04:27:39.459] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[27Mar2025 04:27:40.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[27Mar2025 04:27:40.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
