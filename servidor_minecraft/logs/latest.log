@@ -2152,3 +2152,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "<partial numeric data>",
   "[31, 67, -114, 112, 10, -73, 63, 72, 96, -70, -73]"
 ]
+[27Mar2025 02:07:50.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[27Mar2025 02:07:50.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[27Mar2025 02:07:50.473] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
