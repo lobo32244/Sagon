@@ -9872,3 +9872,64 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [27Mar2025 04:27:40.780] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Santix15: {disabled=false, disconnected=false, uuid=1f8cbd0f-e34f-3631-ad78-ab523f2938ae, name=Santix15, group=null}
 [27Mar2025 04:28:40.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Mar2025 04:28:40.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 04:33:40.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 04:33:40.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 04:35:38.882] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[27Mar2025 04:35:38.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[27Mar2025 04:35:38.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_2
+[27Mar2025 04:35:38.891] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[27Mar2025 04:35:38.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[27Mar2025 04:35:38.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[27Mar2025 04:35:38.894] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[27Mar2025 04:35:38.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[27Mar2025 04:35:38.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[27Mar2025 04:35:38.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[27Mar2025 04:35:38.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[27Mar2025 04:35:38.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[27Mar2025 04:35:38.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[27Mar2025 04:35:38.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[27Mar2025 04:35:38.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[27Mar2025 04:35:38.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[27Mar2025 04:35:38.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[27Mar2025 04:35:38.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[27Mar2025 04:35:38.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[27Mar2025 04:35:38.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[27Mar2025 04:35:38.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[27Mar2025 04:35:38.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[27Mar2025 04:35:38.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[27Mar2025 04:35:38.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[27Mar2025 04:35:38.923] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[27Mar2025 04:35:38.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[27Mar2025 04:35:38.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[27Mar2025 04:38:40.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 04:38:40.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 04:38:49.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[27Mar2025 04:38:49.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[27Mar2025 04:38:49.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[27Mar2025 04:38:49.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[27Mar2025 04:38:49.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[27Mar2025 04:38:49.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[27Mar2025 04:38:49.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_normal
+[27Mar2025 04:38:50.176] [Worker-Main-50/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Mar2025 04:38:50.177] [Worker-Main-50/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Mar2025 04:38:50.177] [Worker-Main-50/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[27Mar2025 04:38:50.473] [Worker-Main-153/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Mar2025 04:38:50.473] [Worker-Main-153/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[27Mar2025 04:38:50.549] [Worker-Main-167/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[27Mar2025 04:39:15.056] [Worker-Main-169/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[27Mar2025 04:39:15.068] [Worker-Main-169/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[27Mar2025 04:39:23.204] [Worker-Main-170/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3 is being run through DFU (hash 32bd1ae2d23fa71616e0c378b422d1e9e13fbf31551051d3f771e728a4fb5d6c), this will cause launch time delays
+[27Mar2025 04:39:23.205] [Worker-Main-170/INFO] [ModernFix/]: Instantiating Mojang DFU
+[27Mar2025 04:39:24.075] [Worker-Main-170/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1 is being run through DFU (hash 37ef6f4972c94afb67d5a690a01f1306e3ef29e3a91f1596a36fe29f2f45d3aa), this will cause launch time delays
+[27Mar2025 04:39:24.180] [Worker-Main-170/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_0_main is being run through DFU (hash bd7c55b1bb12e5a2d02b6a73a0b73a37eeb9cb470d83c70382af9be9b4541214), this will cause launch time delays
+[27Mar2025 04:39:24.238] [Worker-Main-170/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_big_0 is being run through DFU (hash 97ca3567cbb388be84c580456221b46df3e4f79b04df1743a0683c68768051ba), this will cause launch time delays
+[27Mar2025 04:39:24.727] [Worker-Main-170/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[27Mar2025 04:39:24.728] [Worker-Main-170/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[27Mar2025 04:39:24.737] [Worker-Main-170/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_6 is being run through DFU (hash db0036046dcbfdb2add9578cbd208e4e9cf6e9ed4f934d03eeda260588a811a2), this will cause launch time delays
+[27Mar2025 04:39:24.746] [Worker-Main-170/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_1 is being run through DFU (hash c38899ef6bf56e749fb933710eaca016c99a762549f9d4529d32842bcb01b833), this will cause launch time delays
+[27Mar2025 04:39:24.753] [Worker-Main-170/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_4 is being run through DFU (hash 6eca3bb9f7f46964786785eb87884fe9ad9e7911d774794d5752f4cd8857a522), this will cause launch time delays
+[27Mar2025 04:39:24.767] [Worker-Main-170/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_2 is being run through DFU (hash 42e55a1bdf37ca93966fc3333646403561a978952366bece40fb23635ecf8167), this will cause launch time delays
+[27Mar2025 04:39:24.778] [Worker-Main-170/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_5 is being run through DFU (hash af9c19032e47a68ff8a293612456dd3f968375a67be0abd7c8d909ef8747d9fe), this will cause launch time delays
+[27Mar2025 04:39:24.792] [Worker-Main-170/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_7 is being run through DFU (hash ea1a84e8397cb5a6dfac88232f928f0360797410f81b961328707ef2d01126f6), this will cause launch time delays
+[27Mar2025 04:39:24.802] [Worker-Main-170/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_0 is being run through DFU (hash 7b3068cd39c82e1fce787e40ceeae37232a163be5ecbf7f03bf4231c097a030a), this will cause launch time delays
+[27Mar2025 04:39:24.810] [Worker-Main-170/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_3 is being run through DFU (hash f011acc3853c6e3101d3c6c0c279faa1e5879f49c80aa22b64404e1fe98da263), this will cause launch time delays
