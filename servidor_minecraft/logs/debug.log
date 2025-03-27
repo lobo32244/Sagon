@@ -6505,3 +6505,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "<partial numeric data>",
   "[-6, 18, -47, 5, -101, 122, -15, -67, 100, 63, -28]"
 ]
+[27Mar2025 21:04:58.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 21:04:58.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 21:05:51.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Pest Control]
+[27Mar2025 21:09:18.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[27Mar2025 21:09:18.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[27Mar2025 21:09:18.741] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lobo3224
+[27Mar2025 21:09:18.742] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
+[27Mar2025 21:09:18.750] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[27Mar2025 21:09:18.767] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[27Mar2025 21:09:18.797] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[27Mar2025 21:09:18.805] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[27Mar2025 21:09:18.838] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[27Mar2025 21:09:18.861] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[27Mar2025 21:09:58.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 21:09:58.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -2087,3 +2087,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "<partial numeric data>",
   "[-6, 18, -47, 5, -101, 122, -15, -67, 100, 63, -28]"
 ]
+[27Mar2025 21:05:51.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Pest Control]
+[27Mar2025 21:09:18.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 lost connection: Disconnected
+[27Mar2025 21:09:18.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 left the game
+[27Mar2025 21:09:18.742] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lobo3224
