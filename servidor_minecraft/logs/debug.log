@@ -6580,3 +6580,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27Mar2025 02:07:50.530] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
 [27Mar2025 02:07:50.555] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
 [27Mar2025 02:07:50.586] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b7e5eca9-5a00-3da7-ac51-8f51ef42decc does not have a secret
+[27Mar2025 02:08:40.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 02:08:40.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 02:13:40.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 02:13:40.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
