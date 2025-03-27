@@ -3507,3 +3507,6 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [27Mar2025 04:27:40.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
 [27Mar2025 04:27:40.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
 [27Mar2025 04:39:23.205] [Worker-Main-170/INFO] [ModernFix/]: Instantiating Mojang DFU
+[27Mar2025 04:41:46.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Magery]
+[27Mar2025 04:44:01.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Magery]
+[27Mar2025 04:48:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Zombie

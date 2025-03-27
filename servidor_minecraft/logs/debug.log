@@ -9933,3 +9933,10 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [27Mar2025 04:39:24.792] [Worker-Main-170/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_7 is being run through DFU (hash ea1a84e8397cb5a6dfac88232f928f0360797410f81b961328707ef2d01126f6), this will cause launch time delays
 [27Mar2025 04:39:24.802] [Worker-Main-170/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_0 is being run through DFU (hash 7b3068cd39c82e1fce787e40ceeae37232a163be5ecbf7f03bf4231c097a030a), this will cause launch time delays
 [27Mar2025 04:39:24.810] [Worker-Main-170/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_3 is being run through DFU (hash f011acc3853c6e3101d3c6c0c279faa1e5879f49c80aa22b64404e1fe98da263), this will cause launch time delays
+[27Mar2025 04:41:46.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Magery]
+[27Mar2025 04:43:40.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 04:43:40.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 04:44:01.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Magery]
+[27Mar2025 04:48:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 was slain by Zombie
+[27Mar2025 04:48:40.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 04:48:40.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
