@@ -2505,3 +2505,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 ]
 [28Mar2025 23:47:16.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> toy voviendo
 [28Mar2025 23:47:25.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> jijaja
+[28Mar2025 23:55:28.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/29058, l='ServerLevel[world]', x=-1993.22, y=77.90, z=75.53] died, message: 'Weaponsmith was slain by Zombie'

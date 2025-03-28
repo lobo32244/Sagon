@@ -7197,3 +7197,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Mar2025 23:47:25.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> jijaja
 [28Mar2025 23:47:26.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Mar2025 23:47:27.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 23:52:27.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 23:52:27.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 23:55:28.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/29058, l='ServerLevel[world]', x=-1993.22, y=77.90, z=75.53] died, message: 'Weaponsmith was slain by Zombie'
+[28Mar2025 23:57:27.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 23:57:27.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
