@@ -4722,6 +4722,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-28 23:03:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_chair": {
     "criteria": {
       "has_planks": "2025-03-28 21:53:23 +0000"
