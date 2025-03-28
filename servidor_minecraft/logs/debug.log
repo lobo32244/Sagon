@@ -6847,3 +6847,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Mar2025 23:03:03.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 has made the advancement [Hot Stuff]
 [28Mar2025 23:07:27.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Mar2025 23:07:27.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 23:12:26.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 23:12:27.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 23:17:26.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 23:17:27.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
