@@ -2215,3 +2215,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28Mar2025 22:14:06.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1904, y=65, z=-174} BlockPos{x=-1905, y=64, z=-174}
 [28Mar2025 22:19:55.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1916, y=66, z=-180} BlockPos{x=-1916, y=65, z=-181}
 [28Mar2025 22:40:56.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: The difficulty has been set to Hard]
+[28Mar2025 22:53:39.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has reached the goal [Flowers of the Savanna]
+[28Mar2025 22:54:26.746] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[28Mar2025 22:54:26.746] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 118
+}
+[28Mar2025 22:54:26.746] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[28Mar2025 22:54:26.747] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "4t,|,lNiOF368uNW$`"
+]
