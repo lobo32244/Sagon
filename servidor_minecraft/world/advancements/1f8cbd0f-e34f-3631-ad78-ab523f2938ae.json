@@ -4829,5 +4829,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-03-28 22:36:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
