@@ -4580,15 +4580,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
-    "criteria": {
-      "rat_upgrade_basic": "2025-03-27 20:59:31 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2025-03-27 20:59:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-03-27 20:59:31 +0000"
     },
     "done": true
   },
