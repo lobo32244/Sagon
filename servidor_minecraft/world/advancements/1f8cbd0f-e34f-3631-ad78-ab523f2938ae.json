@@ -4631,6 +4631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-03-28 22:07:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_hedge": {
     "criteria": {
       "has_leaves": "2025-03-28 21:54:30 +0000"
@@ -4679,15 +4685,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-03-28 22:07:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_cabinet": {
     "criteria": {
       "has_log": "2025-03-28 21:53:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-03-28 22:07:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-03-28 21:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-03-28 22:07:44 +0000"
     },
     "done": true
   },
@@ -4700,6 +4724,12 @@
   "cfm:recipes/decorations/stripped_spruce_chair": {
     "criteria": {
       "has_planks": "2025-03-28 21:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-28 22:07:44 +0000"
     },
     "done": true
   },
@@ -4721,9 +4751,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-28 22:07:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2025-03-28 21:53:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-03-28 22:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-28 22:07:44 +0000"
     },
     "done": true
   },
@@ -4754,6 +4802,12 @@
   "cfm:recipes/decorations/spruce_hedge": {
     "criteria": {
       "has_leaves": "2025-03-28 21:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-28 22:07:44 +0000"
     },
     "done": true
   },

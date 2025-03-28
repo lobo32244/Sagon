@@ -2202,3 +2202,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "<partial numeric data>",
   "[-23, 62, -93, -42, 81, 120, 90, 102, -40, -37, -39]"
 ]
+[28Mar2025 22:12:24.206] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[28Mar2025 22:12:24.207] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 25
+}
+[28Mar2025 22:12:24.207] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[28Mar2025 22:12:24.207] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "WD#n(~61Mei@`uJ368}-\\"
+]
+[28Mar2025 22:14:06.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1904, y=65, z=-174} BlockPos{x=-1905, y=64, z=-174}
