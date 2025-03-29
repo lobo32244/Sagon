@@ -17,3 +17,6 @@
 [29Mar2025 00:30:56.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
 [29Mar2025 00:31:13.668] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/29082, l='ServerLevel[world]', x=-1934.51, y=65.56, z=-167.30] died, message: 'Mason was slain by lobo3224'
 [29Mar2025 00:31:32.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[29Mar2025 00:42:32.527] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[29Mar2025 00:44:28.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['dinnerbone'/34945, l='ServerLevel[world]', x=-1800.08, y=61.97, z=-189.03] died: dinnerbone was slain by Iron Golem
+[29Mar2025 00:46:46.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Hot Stuff]
