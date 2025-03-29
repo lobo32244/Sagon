@@ -7229,3 +7229,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29Mar2025 00:22:27.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Mar2025 00:27:26.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Mar2025 00:27:27.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 00:29:26.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <lobo3224> lito
+[29Mar2025 00:29:44.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> EL PELADO DE MIEDA
+[29Mar2025 00:29:58.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> se agarro de no se que mierda
+[29Mar2025 00:30:56.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Creative Mode]
+[29Mar2025 00:31:13.668] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/29082, l='ServerLevel[world]', x=-1934.51, y=65.56, z=-167.30] died, message: 'Mason was slain by lobo3224'
+[29Mar2025 00:31:32.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lobo3224: Set own game mode to Survival Mode]
+[29Mar2025 00:32:27.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 00:32:27.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 00:37:26.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 00:37:27.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
