@@ -20,3 +20,6 @@
 [29Mar2025 00:42:32.527] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
 [29Mar2025 00:44:28.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['dinnerbone'/34945, l='ServerLevel[world]', x=-1800.08, y=61.97, z=-189.03] died: dinnerbone was slain by Iron Golem
 [29Mar2025 00:46:46.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [Hot Stuff]
+[29Mar2025 01:00:19.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[29Mar2025 01:00:19.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[29Mar2025 01:00:19.769] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
